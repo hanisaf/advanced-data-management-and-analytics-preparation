@@ -1,0 +1,485 @@
+﻿INTRODUCTION
+LETTER FROM MAYOR ABOUTALEB
+Rotterdam is a city to be proud of - and I am extremely proud of Rotterdam! The tiny settlement of 'Rotta' at the Rotte river bank has, over the course of centuries, grown into the major city of today. Rotterdam has its citizens to thank for that, from the early settlers to the current residents. The people of Rotterdam utilized the city's location and its potential to the fullest, turning the water of the Rotterdam delta from its biggest threat into its greatest opportunity. They seized opportunities presented by trade and fishery. They embraced plans by visionaries such as Pieter Caland, whose 'Nieuwe Waterweg' (New Waterway) established the city's direct connection to the North Sea.
+Rotterdam's history is marked by its residents' resilience. Challenges were overcome, in water management, trade, fighting cholera epidemics, and in literally reconstructing the city after a devastating bombardment at the start of the Second World War left much of the city in ruins. Rotterdam has always faced difficult situations by looking to the future and finding opportunities for city improvement; 'stronger through struggle' is our motto.
+In May 2013 I met Judith Rodin, the Rockefeller Foundation's CEO, in New York City. The great importance of resilience, in relation to the economic structure and livability of cities was recognized by her organization. Global developments, such as urbanization, climate change and the increasing complexity of urban society tell us we must look ahead and be prepared. The 100 Resilient Cities initiative was born.
+She encouraged me to join the cities at the forefront, exploring the meaning of resilience for Rotterdam, and discovering the ways in which we can continue to build on our historical accomplishments. I embraced the
+invitation with conviction. Rotterdam has always shown resilience, but innovative cities remain successful by being future-driven, rather than coasting on past successes.
+The people of Rotterdam are the key to the resiliency of their city. Their agility and resilience are crucial when disaster strikes. The memories of Paris and Brussels are still fresh. Continuing work on an inclusive Rotterdam society will further increase its resilience and provide balance. Developments in technology and society continue to challenge our resilience as well. The knowledge and skills necessary to deal with these new challenges are essential in order to keep moving ahead. The urgency of resilience is displayed in many areas.
+An example that stresses the urgency, in my opinion, is the growth, interconnectivity of and dependencies on ICT systems. This calls for 'cyber resilience': the ability of Rotterdam's city and port area to keep functioning, despite disruptions that will surely occur.
+I am very proud to present to you Rotterdam's resilience strategy. This is only the beginning, not a blueprint.
+The strategy provides a new way of thinking, with new insights on how to further expand Rotterdam's robustness, flexibility and inclusivity.
+I invite you to view your daily activities and your passions through the 'resilience lens' this strategy offers. How do your activities contribute to Rotterdam's resilience? Share your views and experiences with us as city officials, with your colleagues and your fellow-citizens. For only by joining forces, can we make our city even stronger and more beautiful.
+AHMED ABOUTALEB
+MAYOR OF ROTTERDAM
+LETTER FROM MICHAEL BERKOWITZ
+The release of Rotterdam's first-ever comprehensive Resilience Strategy is an evolutionary step forward for a city with a rich history of innovation and leadership. From its recovery after the destruction of World War II, to its globally recognized work on climate adaptation and water management, Rotterdam has time and again shown that it never shies away from confronting the most pressing challenges of the day head-on. The release of this strategy builds on this storied legacy.
+Through this strategy, Rotterdam is taking an honest and proactive view of its resilience challenges and opportunities, while laying the groundwork for important work ahead. It recognizes that Rotterdam must become resilient not just by fortifying its defences to a changing climate and rising seas, but also by building a more cohesive and inclusive society. This is especially evident in the strategy's cross-cutting initiatives, which focus on finding multi-benefit solutions to
+climate, technological, and socio-economic risks that can achieve a resilience dividend for the city.
+Rotterdam has moved well beyond climate adaptation expertise to be at the cutting-edge of resilience topics such as building cyber resilience, and upgrading the landmark Peperklip Building. Specifically, renovations such as the Peperklip's should provide an opportunity to establish a link between the municipality of Rotterdam, to jobs and social cohesion programs for its residents.
+If completed under current plans, the project has the potential to house one of Europe's largest roof gardens.
+Of course, none of this could have been possible without the strong support and vision of Mayor Aboutaleb. As one of the first members of 100 Resilient Cities - Pioneered by the Rockefeller Foundation, Mayor Aboutaleb established Rotterdam as a leader in our global network early in our engagement. His keen interest in our partnership catalyzed the energy and political will necessary to turn Rotterdam's challenges into opportunities. A special thanks should also be extended to Rotterdam's CRO, Arnoud Molenaar, who hosted 1 00 Resilient Cities' first ever Network Exchange and led an extensive process of research, analysis, and stakeholder engagement over the past few years that resulted in the fantastic work we see today.
+Though this strategy represents the end of the strategic planning process in Rotterdam, it is only the beginning of the exciting work to come in the months and years ahead. And 1 00 Resilient Cities' partnership with the City of Rotterdam is also just beginning. It is now that we can collectively begin implementing the actions and initiatives contained in the following pages, which will positively impact the lives of all of those who call Rotterdam home. From its willingness to engage with world-class service providers through the 1 00 Resilient Cities platform of partners like Microsoft, to its ability to export best practices across the globe, Rotterdam is well positioned to continue leading the global urban resilience revolution. We at 1 00 Resilient Cities could not be more pleased to be a partner in these efforts.
+BEST REGARDS,
+MICHAEL BERKOWITZ
+PRESIDENT, 100 RESILIENT CITIES - PIONEERED BY THE ROCKEFELLER FOUNDATION
+LETTER FROM ARNOUD MOLENAAR
+Very few 'Rotterdammers' (citizens of Rotterdam) know, but Rotterdam is world-renowned for its adaptation to climate change. International delegations visit the city every week, to see for themselves how we handle management of dykes and levees, water management, rain and use of ground- and drinking water. Their tours include visits to our water squares, underground parking garages with a built-in water storage facilities and a rowing course that doubles as a water buffer, combining sports, recreation and water management. They may also stop to look at multifunctional dykes, experimental floating constructions or the internet system that allows us to monitor the entire city's groundwater levels.
+Rotterdam's leading position in climate adaptation helped local businesses to receive millions of dollars in commissions in the aftermath of the disastrous hurricanes Katrina in New Orleans and Sandy in New York. Rotterdam may proudly state: we make cities climate proof.
+The climate change adaptation program we have been working on for more than a decade, is a good example of how to sustainably handle risks and threats. Of course, we have a long history of Dutch craftsmanship to build upon. Our approach is to keep threats at bay, even using them to Rotterdam's advantage, increasing quality of life in our city and efficiency in our port. We do so because it is essential that the continuity of our city is preserved. Our efforts on climate change adaptation were a reason for the Rockefeller Foundation to invite us to join their resilience challenge, so that we could share our experiences, expand our horizons and learn from other cities - on climate change, and all the other challenges facing cities today.
+This document is Rotterdam's first Resilience Strategy.
+Our primary goal is to make resilience-thinking common practice in our city and part of our DNA. We do so for you and with you. Six themes and a wide range of inspiring initiatives, both new and operational, will help increase our city's resilience.
+100 Resilient Cities helped us in our journey to develop this Resilience Strategy and we are very grateful for this support. Participation in the 100 Resilient Cities Network has further strengthened and expanded Rotterdam's image as a well-prepared, innovative delta city. We look
+From the laying of the first foundations of the city, the spirit of resilience has been engrained in our psyche. Instead of fighting the water, we used it to our advantage, creating land, establishing a new waterway (Nieuwe Waterweg) and promoting our city and World-class port as the main gateway to Europe. Our city and our people have - throughout history - overcome numerous shocks and stresses. We have adopted the city motto "Stronger through struggle" ("Sterker door strijd") - this was added to our coat of arms to remember the courage and the strength shown by the people of Rotterdam through World War II. Our city centre was destroyed during World War II, but we have recovered, and in 2015 our city was voted the best city centre in the Netherlands. Rotterdam is now a thriving cosmopolitan city, with a wealth of cultures and ethnicities. Our citizens are among the happiest in the Netherlands. It is well known for its modern architecture and has a vibrant cultural scene with an eclectic variety of shops, attractions, festivals, restaurants and parks. It is home to Europe's largest and one of the top ten most important ports in the world and from this naval and industrial heritage it is now emerging as an exciting and dynamic entrepreneurial hub. It is well served by top quality internationally renowned knowledge institutions and universities which help to ensure we have a highly skilled and agile workforce.
+But as we reflect on our past, we also foresee new risks and challenges in the future from, for example; digitization, climate change, the new economy and globalization. We know that we cannot become complacent and that these challenges need to be faced. We have a reputation for designing and engineering robust systems but we acknowledge that future risks might call for a different response - more flexibility and greater inclusiveness - perhaps different governance and funding approaches. Ensuring Rotterdam's ongoing resilience will be a challenge, but it's one we are ready for. We know that the technological and societal changes of the 21st century will present new risks and opportunities but we want to fight for a sustainable, safe, united and healthy future for our city.
+"READY FOR THE 21st CENTURY"
+RESILIENCE IS MORE THAN CLIMATE ADAPTATION.
+Cities and urban environments are becoming increasingly more diverse, dynamic, connected and as such can be unpredictable. Resilient cities have in place the governance, social and financial infrastructure to
+INCREASING DYNAMICS IN URBAN ENVIRONMENTS
+adequately respond to these sometime unpredictable changes - to recover quickly and to bounce back to become stronger than before. Rotterdam, as a Delta city, contains a vast and successful port and industrial complex, is home to a diverse and growing population and is situated in one of the most open economies in the world. It is therefore exposed to - and needs to be ready to respond to - a number of important global, regional and local transitions.
+In the last 10 years Rotterdam has won international acclaim for its work on climate adaptation. Our water squares, underground car parks with huge rain retention basins, multifunctional dykes and floating constructions are often profiled in international press and in the aftermath of Hurricane Katrina in New Orleans and Hurricane Sandy in New York this experience has attracted millions of dollars of revenue for Rotterdam based companies. Our companies have a strong reputation for helping to climate proof cities!
+We're proud of our track record on managing water and climate risks but we recognize this is only one of the stresses that our city is facing. Over the last two years, with the support of 100 Resilient Cities - Pioneered by the Rockefeller Foundation, we have expanded our view of what city resilience means. We have begun to think of resilience in a much more holistic way, considering a broader range of shocks and stresses.
+In developing our resilience strategy we've used the methodology and many of the tools developed by 100 Resilient Cities, we've engaged with hundreds of local stakeholders, spoken to international specialists, held workshops, conducted research and worked hard to zero in on the areas that we believe require the most attention to take Rotterdam's resilience to the next level. We've articulated our resilience challenge, developed a single integrated vision for a Resilient Rotterdam in 2030, defined seven resilience goals and determined
+68 actions that we will work to take forward in the coming years. We would like to thank 100 Resilient Cities and all the contributors and supporters that have helped us to develop this document - Rotterdam's first official Resilience Strategy. This is only the start; we still have a lot of work and further exploration to do, and we will need the engagement and collaboration from numerous city stakeholders to deliver on this vision.
+"CITIES THAT HAVE CONSIDERED THEIR RESILIENCE IN A HOLISTIC WAY WILL BE BETTER PREPARED FOR THE FUTURE."
+100
+RESILIENT
+CITIES.
+in the 100 Resilient Cities programme has helped to strengthen our growing reputation as a hub for clean tech and as a city taking action on climate change and has allowed us to cement important partnerships within the city and internationally. It has also supported us in helping to promote and export the skills and services of some of our local private sector partners (e.g. private sector companies such as Deltares, Arcadis and TNO are now active in Denmark, India and the US).
+100 Resilient Cities - Pioneered by the Rockefeller Foundation is dedicated to helping cities around the world become more resilient to the physical, social and economic challenges that are a growing part of the 21st century. 100 Resilient Cities supports the adoption and incorporation of a view of resilience that includes not just the shocks (i.e. earthquakes, fires, floods) but also the stresses that weaken the fabric of a city on a day to day or cyclical basis, www.100resilientcities.org.
+The programme was established in honour of Rockefeller's 100th anniversary; it will ultimately involve 100 cities globally and had initial funding of $100 million although the level of funding support has grown since the programme was launched.
+Rotterdam, like other cities in the network, has received support from 100 Resilient Cities in a range or ways, as follows;
+•	Financial and logistical support to the position of a Chief Resilience Officer (CRO)
+•	Expertise in guiding the process to develop a robust resilience strategy - Rotterdam has benefited from input from AECOM as a 100 Resilient Cities strategy partner, as well as advice and guidance from 100 Resilient Cities staff and other network cities
+•	Access to solutions, service providers and public and private partners and NGOs - Rotterdam has had additional support from Microsoft, TNO and Drift
+•	Membership of a network of world cities for knowledge exchange and learning - as an example Rotterdam hosted a successful network exchange in 2015 attended by around twenty other CRO's.
+We are proud to have been one of the front running cities in the 100 Resilient Cities network and are pleased with the interactions we've already experienced through the network. Already it has been a catalyst for our participation in new resilience projects and has helped to enhance our city brand and identity. Our participation
+16 ROTTERDAM RESILIENCE STRATEGY
+Rotterdam has recently signed the 100 Resilient Cities 10% pledge; committing 10% of the municipality annual budget towards spending on resilience projects and initiatives. This commitment means we are eligible for up to $5 million (additional) in platform resources through our association with 100 Resilient Cities. We will draw on this support to support implementation of strategy.
+WHAT IS RESILIENCE.
+MORE THAN ROBUSTNESS.
+The 100 Resilient Cities programme defines urban resilience as: "The capacity of individuals, communities, institutions, businesses, and systems within a city to survive, adapt, and grow no matter what kinds of chronic stresses and acute shocks they experience".
+In developing our resilience strategy we drew heavily on the 100 Resilient Cities established methodology
+and supporting tools. The City Resilience Framework (CRF) helped us to identify the relevant domains of city resilience. Our stage 2 diagnostic tasks helped us to identify the key shocks and stresses (and transitions) that Rotterdam may face in the future and the resilience and reality lenses, together with the seven resilience qualities helped us to develop and refine our action list.
+SEVEN QUALITIES OF RESILIENCE
+METHODOLOGY: THE CITY RESILIENCE FRAMEWORK
+WHAT IS RESILIENCE.
+ROTTERDAM:
+'SELFIES'
+We were clear from the beginning that our resilience strategy should both reflect on the past and establish a vision for the future that is relevant across a range of spatial scales - local, district and citywide. We have taken three 'selfies' of the city to support this.
+ROTTERDAM THEN
+From humble beginnings as a small fishing village we have developed into a 21stCentury World Port City. We have overcome all types of crises and change having experienced flooding, wars and welcoming our many new residents from all over the world - we are now a city with 170 nationalities. We've learned by reflecting on our past that our people can pull together to overcome challenges by creating and planning robust systems and organizations, and that we have a generally inclusive society.
+ROTTERDAM NOW
+We are now at a moment in time where we have come together to consider - in a holistic way - some of the challenges and transitions we will face in the future and to agree between ourselves on a suite of actions that can enhance our city resilience going forward. We foresee a number of transitions on the horizon, these include:
+•	A changing economy driven more by sharing and technological innovation ("Next Economy"),
+•	A different climate resulting from predicted climate change
+•	Changes in society and democracy driven by a move away from top-down hierarchy, to a more bottom up approach with much greater levels of community and citizen involvement.
+We recognise that we don't know everything - there will be other unknown transitions and we have to be prepared for these.
+ROTTERDAM TOMORROW
+We must also have a vision for Rotterdam in the future, for a resilient city. This needs to be understood by a range of stakeholders. Our visions and goals - set out later in this document - begin to paint a picture for a Resilient Rotterdam. Our identified projects and initiatives support and build on this picture. The selfie we envisage for 20301
+OUR RESILIENCE CHALLENGES.
+We believe we have a strong track record on resilience, but we want to build on this platform and take our city resilience to the next level. Our challenge is to respond to a number of transitions happening in parallel that are potentially disruptive if not dealt with properly and to work hard to realize policies and actions that provide benefits in each - or many - of these areas.
+Using the 100 Resilient Cities methodology we defined six focus areas which represent our main resilience challenges. These are:
+1.	Social cohesion and education
+2.	Energy transition
+3.	Climate adaptation
+4.	Cyber use and security
+5.	Critical infrastructure
+6.	Changing urban governance
+Based on our discoveries when focusing on these challenge areas we were able to develop a vision for a resilient Rotterdam together with a range of actions and initiatives aimed at specifically responding to the challenges identified. Our actions or initiatives are often cross cutting and address a number or all of the challenge areas.
+"MOVING FROM ROBUST TO RESILIENT."
+ROTTERDAM RESILIENT CITY.
+Rotterdam will work to embed resilience thinking into all of our city planning and delivery functions. We want to build on our heritage and past successes to take our city resilience to the next level. Robust is no longer enough, we want to become more flexible and engage community groups and other partners to work together to explore the synergies between our areas of work and to deliver cobenefits. We want the whole city to join ini
+Rotterdam is thriving again. After dominating lists of poor performance for long time, progress is being made. We
+are now celebrating the city centre, 75 years after it was destroyed in World War II. Safety has improved and Rotterdammers are amongst the happiest people in the Netherlands. The successful organisation of our country and city has brought us relative prosperity and a pleasant and safe place to live.
+Our strength is built on robustness, planning and control, but we foresee a number of new transitions and challenges and will have to stay alert and be prepared to build capacity to adapt to these changes.
+26 ROTTERDAM RESILIENCE STRATEGY
+"TYPICAL FOR ROTTERDAM:
+MAKE IT HAPPEN!"
+The 21st century will see significant city growth for Rotterdam. We have a track record of dealing with challenges, and have proven on numerous occasions that we can overcome crisis and profit from new opportunities offered by adapting to a changing environment and context. Often these challenges have served to make us more robust and efficient. We are certain that in the future we will also need to become more flexible - seeking greater participation from citizens and stakeholders.
+By working together, we can harness the energy that exists in our society to let ideas grow, giving space
+and facilitating connection between people and the establishment of resilience networks.
+In order to realize the vision we have established 7 resilience goals:
+1.	Rotterdam: a balanced society
+2.	World Port City built on clean and reliable energy
+3.	Rotterdam Cyber Port City
+4.	Climate Adaptive city to a new level
+5.	Infrastructure ready for the 21stcentury
+6.	Rotterdam network - Truly our city
+7.	Anchoring resilience in the city
+Each goal is accompanied by flywheel actions and additional actions. Fly wheel actions are our bigger actions which will make big leaps towards Rotterdam reaching a citywide state of resilience, while the additional actions contribute with lesser impact. Our resilience thinking has resulted in the identification of many new actions, as well as where appropriate, framing ongoing projects or initiatives to deliver a resilience dividend.
+THE STORY OF THE CITY.
+The resilience strategy is not meant as a blueprint or end product, but as a starting point to show:
+•	which activities, projects and programs already contribute to resilience;
+•	how we can connect and enhance the existing instruments and initiatives;
+•	how new activities can enhance city resilience.
+Resilience thinking is being incorporated in the
+policymaking and initiatives across all domains of city government, including across social, physical and economic programmes. These elements come together in "The Story of the City". The resilience strategy and "The Story of the City" are complementary. The latter sets out the kind of city we want Rotterdam to be, the Resilience Strategy shows how we can achieve this in a resilient way.
+We have developed our own Resilience Compass, intended as a point of reference to help us to frame our actions and to guide the transition from a robust present towards a resilient future. Moving from a robust Rotterdam our actions need to respond to one or more resilience themes (see City Resilience Framework), they must deliver a resilience dividend, set a clear goal and involve key stakeholders, including potential partners, funders and agencies. Our strategy articulates flywheel actions (i.e. the headline actions) and additional supporting actions. Some of the resilience actions seek to build on and enhance existing projects and initiatives others are new.
+OUR RESILIENCE
+GOALS.
+ROTTERDAM AIMS TO BECOME A CITY IN WHICH RESILIENCE THINKING HAS BEEN ANCHORED IN DAILY LIFE, AS WELL AS IN THE ACTIONS TAKEN BY COMPANIES, INSTITUTIONS, GOVERNMENT AND CITIZENS. SPECIFICALLY WE ARE WORKING TOWARDS THE FOLLOWING GOALS:
+1.	Rotterdam: A balanced society
+2.	World port city built on clean and reliable energy
+3.	Rotterdam Cyber Port City
+4.	Climate resilient Rotterdam to the next level
+5.	Infrastructure ready for the 21st century
+6.	Rotterdam Networkcity - truly our city
+7.	Anchoring resilience in the city
+"Skilled and healthy citizens in a balanced society"
+We seek to build and strengthen resilience at
+the individual and the societal level. Knowledge, skills, education, health and wellbeing and mutual understanding and respect are central pillars of a balanced society. We will support and enhance a number of ongoing processes and initiatives to support the resilience of Rotterdam's citizens and society working alongside the existing Social Perspectives program (Foresight Social).
+21st century skills
+At the individual level, we need to provide learning skills and suitable education for life and work in the 21st century, including leadership skills. We want our young people to be ready to work in the 'Next Economy', to contribute and benefit from the digital revolution and to take ownership of their own future and responsibility for fellow citizens and their communities
+HEALTH
+We will focus on the health of the individual citizen, implementing a suite of tools and actions focused on specific groups and problems. Before summer 2016 we will launch our policy document focused on Public Health.
+WE-SOCIETY
+Global and local trends or sudden events can
+"unbalance" the Rotterdam society. For example the growth of migration which causes a greater diversity of norms and values. Also the crises beyond the Netherlands and Europe (wars and terrorist attacks) are of concern for the people of Rotterdam, with the attacks in Paris and Brussels still fresh in our minds we are endeavouring to prevent these tensions from disrupting our lives and the city. Recently all national and regional response and action planning has been reviewed and updated. It is crucial that the city invests in monitoring tensions in society and in social cohesion and resilience. The program WE-Society builds openness and mutual understanding (nothing to be unspoken) between people and is essential for maintaining the connections between different groups of people in Rotterdam. We will support and work to enhance and develop this programme to deliver positive resilience outcomes.
+STRONG SHOULDERS
+The program Strong Shoulders, reinforced by measures from the Woonvisie (vision for housing and living), is working to support a balanced population demographic in Rotterdam and specifically to attract highly educated people to the city. The resilience programme will support this initiative.
+"Towards a flexible energy infrastructure for an efficient and sustainable energy mix in Port and City."
+Rotterdam wants to be the front runner in the clean energy transition and support recent political agreements through COP21 in Paris. The appetite for and evolution of sustainable energy technologies will have a great influence on the city and the port of Rotterdam. We are striving for a diversification of energy sources and to make the urban energy infrastructure more flexible, in order to successfully deliver this clean energy. Delivering this transition is a large and complex task, but it provides the opportunity for Rotterdam to strengthen its economy and reputation. The current and planned activities of the
+port of Rotterdam (Bioport), the roadmap Next Economy for 'a zero carbon' future (Smart Energy Delta) and the measures of the Rotterdam's sustainability program focused on renewable energy and energy conservation support this agenda. New actions are underway to underline the urgency of this transition. The Rotterdam energy infrastructure plan will give direction to the strategy for energy diversification at a district level, each with a roadmap for implementation. The port-industrial cluster will make and carry out an action plan in a joint effort with industries, government and the Rotterdam Port Authority. The Rotterdam sustainability program will be reinforced with new actions as follow up from COP21.
+"Rotterdam aims to be a cyber resilient city and port; an important condition required to attract new business and investment"
+The digitization of society offers many opportunities (Digital Gateway Rotterdam, Smart City), but risks of disruption of essential processes for production, logistics and services also increase. While the investments in Cyber increase at a rate of 27% per year, the investments in cyber security only increase at a rate of 4 %.The necessity of a cyber resilient port of Rotterdam was recognized by the Mayor, chief prosecutor and Chief of Police in 2014. Together with the Rotterdam Port Authority and Daltalinqs (representing 700 companies) they have ordered a strategy on cyber resilience. Individual companies and organizations can have their own security in order, but they are also dependent on other companies, organizations and government services. The resilience of Rotterdam to cyber threats will be increased by enhancing awareness, sharing knowledge and experience and joining forces to improve responsiveness and ICT products. Both the port and city are taking cyber security seriously, they share experiences and have worked with Microsoft to develop comparable strategies and actions comprising 15 building blocks including a Cyber Resilience Platform, Cyber Resilience Desk, Cyber Resilience Co-op and a Port Cyber Resilience Officer. Rotterdam needs a Delta plan for Cyber Resilience. Rotterdam will have implemented its cyber resilience strategy within 5 years and will have significantly enhanced its cyber resilience.
+"Climate proof
+plus cyber proof
+critical infrastructure"
+The approach and practice established in Rotterdam's climate adaptation strategy (2013) serves as an example to many other cities in the world. Implemented projects such as Water Sensitive Rotterdam - the construction of small and larger water storage combined with greening often initiated by citizens - is contributing to the resilience of Rotterdam. We need to build on this, to scale up the benefits. Clever water management approaches can deliver financial benefits. We will work to better understand cascading impacts and to factor these in to our cost benefit decision making (e.g. prolonged power outage or cyber threat). We will also strengthen our crisis management approaches based on increased knowledge of flood risks. Based on research conducted by TNO we have agreed that we must enhance our climate resilience strategy by taking action on cyber resilience. All stakeholders must start collaborating on this agenda that can help us to further climate proof the city.
+"A robust and resilient underground infrastructure as a physical basis for a resilient Rotterdam"
+Much of Rotterdam's underground infrastructure is crucial for the city to function. Today, our underground infrastructure is robust but lacks flexibility to respond to emergencies, new technological developments and over ground development growth is limited. This brings some risks related to repair capacity, delivery of sub-optimal solutions and poor integration of above and below ground services. We want to increase resilience by
+enhancing the awareness of risk, developing a policy for more robust decision making; more integrated planning practice both underground and overground, relating to infrastructural interventions.
+This requires a reinforcement of cooperation among all infrastructure managers, including the city as a platform to share plans and (often confidential) knowledge
+and information. We are going to create more specific databases and information on the location of infrastructure and functions and interdependencies of the subsurface. We will also explore how innovative SMART technology can be integrated into the "Street of the Future". Our resilience strategy commits to action in each of these areas.
+"Residents, public and private organizations, businesses and knowledge institutions together determine the resilience of the city"
+Our society is well organized. The city is being created by the Rotterdammers, therefore it is 'truly our city.
+The local government is one amongst many other stakeholders. How do we manage to become resilient? The way the Rotterdam society operates has many characteristics of resilience including self-organization, strong networks and various coalitions of citizens and businesses and a government offering customised services and a facilitating role with programs like the Right to Challenge and CityLabOlO.
+Our resilience increases as more alternative organisations arise, but more effort is needed to incorporate resilience thinking into the DNA of the government and to use and strengthen the energy of Rotterdam's society. The resilience strategy will focus on increasing government flexibility and will facilitate connecting several networks of locals, individuals and businesses, as a catalyst for more bottom-up community and business initiatives, to share knowledge and experiences to the advantage of Rotterdam's people and businesses. Our future
+government will handle new ideas better and work to harness and augment the energy that derives from our communities and will accept more redundancy providing more alternatives during outing of services and operations. We have committed to actions including developing the cities desk for new democracy and participation and providing support to existing networks, citywide and at district level because they directly contribute to the resilience of our city's governance.
+TOWARDS A RESILIENT GOVERNANCE OF THE CITY
+"With stakeholders in the neighbourhoods, sharing knowledge and a facilitating organization"
+We will develop an innovation and integration agenda on the back of this resilience strategy. We want to identify co-benefits and synergies. For example, strengthening the cyber resilience in Rotterdam strengthens the security of critical infrastructure. Working on 21st century skills of Rotterdam, including ICT skills,
+contributes to the cyber resilience. We think these synergies are very important to our strategy and will seek to explore these further. One way we will do this is within district pilot areas. A number of actions and themes can come together physically at the neighbourhood or building level.
+Our resilience strategy names three pilot districts. These are Feijenoord, Delfshaven and the City Centre. We have initiatives that relate to a number of different scales, as follows:
+1.	Building (example: Resilient Peperklip)
+2.	Neighbourhood (example: Resilient Delfshaven)
+3.	City (example: Nationaal Programma Rotterdam Zuid)
+4.	Metropolitan Area (example: Roadmap Next economy together with The Hague)
+5.	National (example: Citydeal Climate Adaptation)
+6.	European (example: resilient Europe, URBACT)
+7.	Worldwide (example: 100 Resilient Cities)
+Innovation will also be encouraged through
+comprehensive integrated research with public and private stakeholders at different scales. This includes knowledge development and knowledge exchange between 100 Resilient Cities cities, like the Rotterdam hosted exchange in October 2015. In the short term we will use the International Architecture Biennale (2018 and 2020) and The International Advisory Board (2017) to address resilience as their main topics.
+RESILIENT CITIES HELP EACH OTHER
+HOW	WHO
+Tactics for living with water
+Rotterdam Water Exchange October 2015 The stories of nine cities
+The International Water Exchange, powered by the Rockefeller Foundation 100 Resilient Cities
+Rotterdam Centre for Resilient Delta Cities
+URBACT: Resilient Europe
+The stories of twelve cities working
+toward social resilience
+URBACT: Resilient Europe programme
+Antwerp, Bristol, Burgas, Glasgow, Katowice, Malmo, Potenza, Rome, Rotterdam, Thessaloniki, Vejle and the EU
+Bilateral exchange
+Rotterdam partners active in cities
+Cities of Rotterdam, Rome, New Orleans en Glasgow
+Rotterdam Centre for Resilient Delta Cities,
+The cities of Vejle, Mexico-Stad, Chennai-Stad
+MOVING TO IMPLEMENTATION
+It is recognised that delivering the Rotterdam resilience strategy will need to be a collaborative effort between the City of Rotterdam, businesses, citizens and other organizations, but that the city government has a key role to facilitate and initiate projects, and to provide leadership and the necessary strategic framework.
+The development of the Rotterdam Resilience Strategy has benefitted greatly from the executive sponsorship of Mayor Aboutaleb and the city has made a top level commitment to continue work to implement its resilience strategy in an integrated way up to 2020 at least.
+"OUR AMBITION IS TO ANCHOR RESILIENCE THINKING IN THE CITY."
+This document has been released for consultation.
+The process and organizational structure to realize the resilience strategy will be further defined based. Feedback will be organized by using, for example, an e-panel, a jury of citizens and district commissions. Following consultation further links will be made to connect the resilience strategy into the broader Story of the City. This strategy document is accompanied by a website. More detailed information can be found on www.resilientrotterdam.nl
+"A JOURNEY FOR ALL OF US: JOIN IN!"
+47
+HIERARCHY
+TO IMPROVE AND SECURE OUR CITY'S RESILIENCE WE WANT ALL STAKEHOLDERS TO CONSIDER THE RESILIENCE PERSPECTIVE IN THEIR DAILY LIVES - IN THEIR THOUGHTS AND ACTIONS. THE ACTIONS PROMOTED THROUGH THIS STRATEGY - COMPRISING 5 WHICH ARE ONGOING, 19 THAT ARE JUST BEGINNING AND 44 THAT ARE COMPLETELY NEW - SHOW SOME OF THE WAYS THAT ROTTERDAM CAN IMPROVE ITS RESILIENCE. OUR CHIEF RESILIENCE OFFICER SUPPORTS AND PROMOTES THESE ACTIONS.
+Our action plan includes 5 ongoing, 44 new, and 19 starting initiatives and actions. The ongoing initiatives, like Roadmap Next Economy, Water Sensitive Rotterdam and the program WE-Society, are included because they are identified as essential for a resilient Rotterdam. Where necessary these initiatives will be enhanced and developed with resilience thinking and linked to the resilience strategy to deliver positive resilience outcomes, to accelerate upscaling and to allow for lessons learnt and wider dissemination through the resilience office.
+There are some new actions that are already in start-up phase, partly due to the Resilience program, which will be supported where necessary by the resilience office and other new actions that will serve as examples of how resilience thinking and interventions can be applied at a practical level at the scale of the neighbourhood, street and building. It is expected that further new initiatives will
+arise, to enhance the resilience of Rotterdam. The resilience office will focus on connecting, enriching and accelerating these where they are feasible, viable and deliver clear resilience dividends.
+Our actions are distinguished into two types: flywheel actions and additional actions. The flywheel actions are the headline actions that deliver the greatest resilience benefit for Rotterdam or which serve as an umbrella for a cluster of supporting actions. The supporting actions are considered to have less impact individually. We have included a key to help navigation through the actions, letters (i.e. A, B, C) signpost the flywheel actions where numbers (i.e. 1,2, 3) are used for the supporting actions. Synergies and overlaps are shown under 'related actions' and icons are used to relate the actions back the resilience challenge areas, to highlight the resilience qualities within the specified action and to show the scale at which the action is applicable.
+A PROGRAM FOR 21ST
+CENTURY SKILLS AND YOUNG LEADERSHIP
+RELATED ACTIONS
+1	CENTRE OF EXCELLENCE FOR 21ST CENTURY SKILLS
+This is the establishment of a new physical hub, a central point for learning 21stcentury skills in Rotterdam. It will accelerate education and establish a visible, and approachable, innovation hub in the city. The Centre of Expertise will undertake initiatives in education and business, working in collaboration with Rotterdam businesses, schools, the government and private stakeholders.
+RESILIENCE VALUE
+•	Supporting the development of training programs to increase knowledge and enable the monitoring and evaluation of experiences
+•	Supports collaboration between public and private sector
+•	Supports awareness, learning and innovation
+2	BUILDING A COALITION FOR YOUNG LEADERSHIP
+Building on and supporting the growing coalition of businesses, civil society and schools to support the 21stcentury skills program. Progress so far has been bottom up and self-starting. The aim of this action is to provide additional resource and support as needed to help the existing coalition deliver on its goals.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Embeds resilience thinking amongst Rotterdam's youth
+•	Supports knowledge sharing and networking
+3	21st CENTURY SKILLS AGENDA
+The 21stcentury skills programme and the Centre of Excellence will need an agreed curriculum. A 21st century skills' agenda will be prepared by the municipality and Rotterdam's leading educationalists as part of the Citydeal for Education (collaboration with some other Dutch cities and the national government). The curriculum will ensure resilience is on the agenda for the main educational establishments across the city.
+RESILIENCE VALUE
+•	The curriculum provides transparency and clarity as to what the demands of the 21st century are.
+•	It provides a method for embedding resilience thinking into key city educational curriculums (integration into our regular educational program)
+4	DEVELOPING PROFESSIONAL NETWORKS
+Starting professional networks that teach 21stcentury skills and young leadership within schools and colleges.
+RESILIENCE VALUE
+• Establish clear educational
+relateds between the professionals, municipality and schools in relation to resilience - to share learning experiences, to enhance the network and to allow it to adjust it to changing circumstances based on feedback.
+BUILDING ON THE PUBLIC HEALTH ACT 2016-2019
+RELATED ACTIONS
+5
+NUDGING' HEALTHY BEHAVIOUR
+(S)
+Our city has already begun research and creating an agenda to identify what motivates goal groups to make behavioural changes to have a healthier lifestyle. We will develop and help disseminate this research to nudge our citizens (and organizations) towards healthier lifestyles, working in collaboration with the Erasmus University Medical Centre.
+RESILIENCE VALUE
+•	Embeds the notions of healthy behaviour and the required behavioural changes across society, targeted at specific audiences/target groups
+•	Supports the self-sufficiency and resilience of citizens (and indirectly organisations and the economy)
+•	Understanding behaviour and the mechanisms that can drive behavioural change can drive efficiencies and cost saving in delivering numerous programmes/initiatives together. This understanding will support delivery of initiatives that can deliver co-benefits (e.g. disseminating information on safe driving that also delivered fuel efficiency benefit)
+PROGRAM:
+WE-SOCIETY
+RESILIENCE LAB: ACTIONS.
+RELATED ACTIONS
+6	INTEGRATION TOURS
+
+Talks and events aimed at encouraging cooperation and dialogue between the city government, citizens and other stakeholders (e.g. private sector, NGO's). This action will make citizens aware of their own roles in society and how they can better contribute to city resilience. Talks will cover social and cultural integration issues and seek to break down barriers to effective dialogue.
+Supports knowledge sharing, values alignment and education. These tours bring groups from different backgrounds and roles in society together to discuss different issues that are important for Dutch values. The
+of differences in values and stresses what Dutch values stand for.
+RESILIENCE VALUE
+• Supports knowledge sharing, values alignment and education. These tours bring groups from different backgrounds and roles in society together to discuss different issues that are important for Dutch values. The program strengthens mutual understanding of differences in values and stresses what Dutch values stand for.
+7	THE G1000 CITIZEN'S SUMMIT
+Foundation LOCAL is organizing a citizen's summit for 2017 It will bring together citizens and civil society and share the results of numerous recent city dialogues (see Action WE-society) that have focussed on key city issues from the citizen perspective. The resilience office will ensure the summit has slots to promote the city's work on resilience and to further education, raise awareness and promote the actions citizens can take to promote resilience. It brings together 1000 citizens that are randomly selected, seeking to provide a broad representation of the diversity in Rotterdam.
+RESILIENCE VALUE
+•	Reinforces the good work and dialogues that have already taken place.
+•	Supports knowledge sharing and networking.
+•	Can be a catalyst for local level / community resilience projects.
+8	BUILDING RESILIENCE THROUGH CULTURAL ACTIVITIES
+The Foundation for Arts Education Rotterdam (SKVR) has a program which includes activities with a specific social objective. These activities are offered free of charge or at low rates. One example is to use music to increase resilience at a district level. These activities are developed with social partners in the city and public funds and are co-financed. Aimed at individual citizens the resilience office will work to integrate this activity into its broader resilience programme.
+RESILIENCE VALUE
+Supports bottom - up community led initiatives and build cohesion.
+9	100 HOMES FOR ASYLUM SEEKERS
+The Foundation Verre Bergen has purchased 100 homes for families seeking asylum in Rotterdam. This forms part of their New Home Rotterdam program's ambition to teach asylum seekers Dutch, assist them to find employment and education and to feel comfortable in their homes and neighbourhoods. This action will be supported and will be connected to wider efforts because it is an excellent example of an initiative contributing to the resilience of Rotterdam. Housing for refugees - and migration more broadly - is an important urban resilience challenge. A number of CRO's within the 100 Resilient Cities network have started a conversation on migration which may lead to a formal exchange. 100 Resilient Cities member cities actively involved in this conversation include: Montreal, Athens, NYC, Thessaloniki, Vejle, Paris, Amman, Ramallah and Byblos. Rotterdam will consider whether we can contribute to this exchange in the future.
+RESILIENCE VALUE
+•	Supports and promotes an integrated and inclusive society.
+•	Supports knowledge sharing and networking.
+•	Demonstration of a private sector led initiative that contributes to a city wide goal.
+STRONG SHOULDERS PROGRAM
+RELATED ACTIONS
+10	VISION ON HOUSING (WOONVISIE)
+The Woonvisie is Rotterdam's vision to become an attractive residential city. It promotes attractive living environments, and housing that is future proof. Woonvisie creates a balance in housing for different groups of residents, improving housing quality. As such it has some cross over with the WE-society programme. The Woonvisie is the basis for agreements with all housing corporations and offers a framework for city developers and for the policymakers for the housing of specific goal groups.
+RESILIENCE VALUE
+•	The Woonvisie is an important instrument to provide adequate housing for different groups in the city supporting the goals of a balanced society and creates inclusiveness.
+•	Supports Rotterdam's brand and 'pull' as an attractive cosmopolitan city.
+11	PROMOTING CITIZEN COLLABORATION
+Within the Strong Shoulders program - supported by field work and surveys - work has been undertaken to consider how high and low-skilled Rotterdammers could work together in effective and harmonious ways. As a result of this work a range of approaches ('how to' guides) were developed. Some of the solutions are straight forward and simple whilst others require an intensive effort to seed more effective collaboration. This agenda needs to be developed and experiences learnt from other cities around the world, and specifically from with the 100 Resilient Cities network.
+RESILIENCE VALUE
+•	Contributes to a better understanding of conditions that enhance social cohesion and therefore supports a balanced society and inclusiveness.
+•	Having different groups living in one neighbourhood enhances resourcefulness with more viewpoints and perspectives available to create ideas and solutions.
+•	Can draw on the 100 Resilient Cities network
+ROTTERDAM ENERGY
+INFRASTRUCTURE PLAN
+F
+REINFORCING ROTTERDAM MOERDIJK INDUSTRY CLUSTER
+PROGRAM)
+PORT TRANSITION FOCUSED ON
+BIO-BASED ECONOMY
+TURNING A SMART CITY INTO A CYBER RESILIENT CITY (DELTAPLAN CYBER)
+RESILIENCE LAB: ACTIONS.
+RELATED ACTIONS
+A Port Cyber Resilience Working Group has been established to develop and implement the key building blocks, as follows:
+•	Appoint a Port Cyber Resilience Officer to support coordination
+•	Establish a Cyber Co-op to promote cyber products and services, to share learning and encourage private sector engagement
+•	Set up a Cyber Notification Desk to allow real-time cyber incident notification
+•	Establish a Cyber Threat Intelligence Watch to monitor cyber threat signals - actual cyber threats and trends
+•	Put in place a Cyber Response Team as the first response team with the objective to de-escalate cyber incidents
+•	Establish a Cyber Resilience Community of Practice
+•	Begin structured communication about cyber threats and incidents
+RESILIENCE VALUE
+•	Creates an approach to detect and deal with the vulnerabilities in the cyber systems that are vital to the functioning of the port and its industries
+•	Supports knowledge sharing and networking
+•	Embeds resilience thinking across all port related activities
+13 CYBER BUILDING BLOCKS: CITY
+For the city a Cyber Resilience Platform will be established to coordinate and start-up actions to implement the cyber resilience building blocks. These actions include:
+•	Establishing the Cyber Resilience platform
+•	Developing a programme around Cyber Awareness
+•	Developing a learning programme around Cyber Competences.
+•	Establishing a Cyber Co-op to promote cyber products and services, to share learning and encourage private sector engagement
+•	Developing codes of practice and requirements for cyber products and services
+•	Collecting learning on Cyber Disruption
+•	Establishing a Cyber Resilience Community of Practice
+RESILIENCE VALUE
+•	Creates an approach to detect and deal with the vulnerabilities in the cyber systems that are vital to the functioning of the city and stakeholders including the citizens.
+Supports knowledge sharing and networking.
+•	Embeds resilience thinking across all city related activities.
+Cyber resilience is a key focus in London and Singapore. This action will further explore opportunities for city to city knowledge transfer within the cyber field, drawing on the 100 Resilient Cities city network and specialists from amongst the 100 Resilient Cities platform partners. Microsoft has already provided support to Rotterdam in relation to cyber security.
+RESILIENCE VALUE
+•	Supports knowledge sharing, innovation and networking.
+•	Creates efficiency through resource and knowledge sharing.
+RESILIENCE LAB: ACTIOS.
+15	CYBER RESILIENCE OF INDUSTRIAL AUTOMATION
+The cyber resilience of all automated infrastructure that is run by the municipality will be evaluated against vulnerabilities to identify cyber threats. Once the threats are understood an action plan will be developed to mitigate risks.
+RESILIENCE VALUE
+• Ensures that cyber resiliency is considered specifically as an important condition to keep the municipal infrastructure running.
+16	CYBER RESILIENCE OF SMART CITY INITIATIVES
+Rotterdam is developing a Smart City program and already carrying out different smart initiatives. The cyber resilience of the Rotterdam Smart City Programme initiative will be assessed and relateded to the development of the cyber resilience building blocks.
+RESILIENCE VALUE
+• Ensures that as new smart technology is deployed for efficiency and sustainability benefits the cyber risk and resilience issues are thoroughly considered; an important element in developing a smart city programme.
+17	CYBER COLLABORATION - METROPOLITAN AREA
+This action will facilitate collaboration across the Rotterdam -The Hague Metropolitan Area level, specifically sharing knowledge and resources on the topic of cyber and water management. Research findings and / or actions identified through this collaboration will be integrated within the building blocks of the city and port cyber resilience strategies. Opportunities will be sought to jointly secure grant funding, such as from the EU. We will seek to open up communication channels between our metropolitan collaborators and with our international collaborators (see Action Cyber collaboration - London and Singapore).
+RESILIENCE VALUE
+• Supports knowledge sharing and networking across the region and internationally
+WATER SENSITIVE
+ROTTERDAM (WSR)
+18	ZOHO: 1ST CLIMATE-PROOF DISTRICT
+Zomerhofkwartier (Zoho) together with the support of users of the area (residents, businesses, organizations and visitors) has undergone a gradual urban regeneration. A neighbourhood which previously had a lot of empty commercial units has been transformed into a district where everything is possible, with 120 companies now operating in the area. The unique multifunctional Waterplein Benthemplein acted as a catalyst project for further development of Zoho. Climate adaptation was found to act as a driver for sustainable development and has strengthened social cohesion. The resilience office will collect experiences learnt in Zoho and scale them up to other districts and the surrounding areas. The district and wider region can therefore be used as an example for how to scale up green and creative solutions for water retention whilst also strengthening community relateds and building knowledge capital.
+RESILIENCE VALUE
+Using climate adaptation as the driver the Zoho project has successfully integrated urban design, landscape, arts and community projects to provide a catalyst for a whole scale regeneration of a district in Rotterdam. It is a fantastic example of how combining a suite of initiatives in a single area together with careful community and business consultation and engagement can deliver a range of beneficial outcomes. This district is now more resilient to flooding, more self-sufficient and has a stronger and more connected community. The challenge now is to take the learning from Zoho and apply it in other districts in Rotterdam. This can help to disseminate resilience thinking, encourage participation and support learning.
+CYBER PROOF WATER SYSTEM
+ADAPTIVE
+WATERFRONT
+DEVELOPMENT
+RESILIENCE LAB: ACTIONS.
+RELATED ACTIONS
+19	PLAN FOR CLIMATE RESILIENT CRITICAL INFRASTRUCTURE
+An important part of the Delta Program is "spatial adaptation", such as spatial adjustments to the existing city within the dykes. An important part of this is critical infrastructure. A new spatial plan will be developed based on regional analysis of critical infrastructure resilience to climate change.
+RESILIENCE VALUE
+•	Supports knowledge sharing, innovation and networking.
+•	A spatial overlay and mapping can deliver co-benefits in considering development growth opportunities and overlaying other considerations such as socio-economic metrics, renewable energy potential and broader infrastructure opportunities and constraints.
+20	VERTICAL EVACUATION PLANNING
+An important part of the National Delta Program is the concept of "multi-layer safety". This involves prevention (1st layer) spatial adaptation (2nd layer) and evacuation (3rd layer). The evacuation layer has yet to be fully planned and developed. The pilot study "crisis management during floods" found that vertical evacuation needs proper consideration as a serious option for layer 3. Specifically, consideration should be given to the fact that the highest areas are located along the river, outside the dykes and the entire port area. We will develop a vertical evacuation plan as part of our resilience strategy implementation.
+RESILIENCE VALUE
+• Supports preparedness and embeds considerations for evacuation into all aspects of the city and port.
+21 CLIMATE RESILIENT WATERFRONT AREAS
+ooo
+In 2014 the National Delta Programme was established. In Rotterdam, as part of the Rotterdam Adaptation Strategy, there are a diverse range of pilot studies which focus on climate resilient development in the wider region; looking at both urban and industrial areas. Some include Pilot Noordereiland, Pilot Botlek, Pilot Feijenoord, Pilot Crisis management and flooding. The results of these pilots will be collated and translated into overall policy for the area outside the dykes in Rotterdam.
+RESILIENCE VALUE
+•	Supports knowledge sharing and networking
+•	Development of new strategies for floodprone areas.
+•	Embeds climate resilient thinking into all areas of Rotterdam.
+The Rotterdam-The Hague Emergency Airport (RHEA) will create an economic cluster focussing on clean technology and water security in an airport setting. As a 'safe haven', the site can be an excellent example of water security in The Netherlands (demonstrating multi-layer security: 3rd Layer). We will establish a knowledge and training centre for service providers, business, research, NGOs and aid organisations that will tap into RHEA companies and scientists specialized in clean technology products in the region.
+RESILIENCE VALUE
+This centre will serve as a demonstrator for Rotterdam. It will achieve a critical mass of organisations and institutes that will be a catalyst for innovation and research. The cluster will support resilience goals around water, energy transitions and next economy / 21s,century skills.
+It will provide a safe area in case of regional emergencies and a base from which support can be delivered to disaster prone areas around the world.
+The municipality of Rotterdam - through their Climate Proof and Adaptation Strategy - have stated an ambition to explore opportunities presented by building floating developments. The Floating Pavilion was our first move. This was followed by floating houses in the Nassau Harbour, Experimental Zone Aqua Dock and innovative designs for a floating farm and water treatment. Upscaling of these approaches and bringing them into the mainstream is our next step and is an action we will take forward as part of implementing our resilience strategy.
+RESILIENCE VALUE
+•	Supports innovation in climate resilient building and infrastructure provision
+•	Raises awareness of climate risks
+COOPERATION
+BETWEEN INFRASTRUCTURE PROVIDERS
+THE SUBSURFACE ABOVE GROUND
+24	ANALYTICAL RESEARCH ON INFRASTRUCTURE AND FEATURES IN THE SUBSURFACE
+Gaining a better understanding of interdependencies and cascading effects as well as insight into the most fragile assets of the critical underground networks will allow opportunities for increasing resilience to be identified. This will require a full assessment and investigation of the existing networks in Rotterdam. This assessment will be taken forward as an action associated with the implementation of this resilience strategy.
+RESILIENCE VALUE
+•	Embeds resilience thinking across all activities related to critical underground infrastructure.
+•	Supports knowledge sharing and networking.
+•	Helps to tease out synergies between critical infrastructure and other resilience goals.
+25	QUICK SCAN OF SELF-RELIANCE
+This action will provide a scan of the extent to which residents of Rotterdam are or can be self-reliant in terms of disruptions to critical infrastructure (long term power failures, heating, drinking water supply, etc).
+RESILIENCE VALUE
+•	Supports greater understanding of residual vulnerabilities from infrastructure disruptions.
+•	Provides context on community and business resilience activities and investment
+•	Supports understanding of the role government can play in providing back up services during emergencies.
+26	COST BENEFIT ANALYSIS OF INFRASTRUCTURE DECISION MAKING
+Generally, risk management and spatial planning do not consider the costs and benefits of development in the longer term (i.e. the full life cycle considerations), but this can support effective decision making and help make the case for investment in redundancy. This is particularly prevalent in the context of underground critical infrastructure. The action will seek to determine how through cost benefit analysis can support infrastructure decision making, including for example, approaches to take account of the value of the subsurface space taken up by the infrastructure.
+RESILIENCE VALUE
+• Embeds resilience thinking and proper (lifecycle) cost benefit analysis into critical underground infrastructure decision making and delivery
+27	THE DEVELOPMENT AND IMPLEMENTATION OF ASSET
+MANAGEMENT FOR OUR UNDERGROUND INFRASTRUCTURE
+The municipality of Rotterdam's asset management team used to maintain and manage all assets in public spaces as well as manage a risk register. This included for items such as bridges and quay walls and also green spaces and lighting. Asset management not only considers the costs and current status of the assets themselves but also the potential risks that the failure of the assets could have on the functioning of the city. By mapping the risks, decisions can be made as to what measures should and should not be performed based on a balance of performance, risk and cost. Smart investments now can often deliver savings in the future.
+This action will develop protocols for the asset management of underground infrastructure, intended to support decision making in respect of maintenance and replacement.
+RESILIENCE VALUE
+•	Embeds resilience thinking into the management of current assets as well as future planned and developed.
+•	Supports knowledge sharing, specifically of infrastructure risks amongst infrastructure providers and developers.
+STREET OF THE FUTURE
+ACTIVE CITIZENS
+ROTTERDAM NETWORK CITY
+28	WORLD EXPO 2025
+World Expo 2025 is an initiative led by a group of Rotterdam entrepreneurs. Their plan includes a ten-year economic program that culminates during the Exhibition in 2025. The Expo will last six months and attract an estimated twenty million visitors. Only the Dutch Government can put Rotterdam forward as a candidate for the Expo; a decision has yet to be taken on this. The municipality has approved the plan and agrees that the spatial integration contributes to the necessary infrastructure upgrades. Additionally, proposed is an 'Expo Works' authority, which is a special program aimed at creating jobs for young people in Rotterdam. The theme of the World Expo 2025 would be 'Rotterdam Changing Currents', with one of the subthemes titled 'Deltas in Transition'.
+RESILIENCE VALUE
+•	Supports inward investment in development and infrastructure and can leave a legacy (see Lisbon, Milan etc).
+•	Embeds resilience thinking to wide range of activities.
+RESILIENCE LAB: ACTIONS.
+29	INTERNATIONAL ADVISORY BOARD AND RESILIENCE
+The International Advisory Board Rotterdam (IAB) is a unique advisory council made up of international leaders in academia and the private and public sectors. The IAB meets once every two years to advise the Municipal Executive of Rotterdam on economic and other aspects of urban development. The IAB serves as a sounding board for the Municipal Executive on issues related to international economic developments. The IAB is currently chaired by Jan Peter Balkenende, former prime minister of the Netherlands. Rotterdam with partners, we will explore the possibilities to address Resilience as main topic for the IAB 2017.
+RESILIENCE VALUE
+• Supports knowledge sharing,
+innovation and networking and builds the profile of the Rotterdam Resilience Programme.
+30	CITY MAKERS CONGRESS
+An annual congress in which a wide range of interested parties from the city, such as developers, housing corporations, design agencies and interest groups collaborate on design issues in the city. The aim is that through city labs issues are addressed and solutions are devised. The resilience office will support this congress and bring resilience to the table for discussion.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Embeds resilience thinking to wide range of activities and stakeholders
+•	Supports knowledge sharing, innovation and networking.
+NEIGHBOURHOOD ORIENTED GOVERNANCE
+Led by local entrepreneurs, an opportunity map was developed which identified a series of initiatives.
+In cooperation with the municipality a strategy for how these should be realized is being developed, with the aim to deliver a robust self-supporting network. The next steps have been established with this strategy acting as a test case for the creation of an effective and efficient network at the neighbourhood level. The aim is to facilitate this development process and to learn from it, allowing lessons to be learnt and taken forward to other areas across the city.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Supports knowledge sharing and networking.
+•	Supports innovation and future thinking across all scales.
+The City of Rotterdam together with the Erasmus University will start a Governance Lab, a joint initiative to come through design research to strengthen the organizational capacity of the city. This initiative is organized in line with the Rotterdam Resilience Strategy and is intended for use by design and action research to implement the city's vision of resilience. Many elements of the resilience strategy relate to the mobilization and utilization of a self-organizing, able society, and the market increasing the resilience of the city. A joint Governance Lab should make it possible to bring together the knowledge questions from Rotterdam and the research interests of the EUR and matching. It is important that the municipality combines knowledge questions and invests in the lab, especially as the university is looking towards current research programs in space, to capitalise on this knowledge. Ultimately, it comes to designing research: the translation of scientific theory and empirical research into useful concepts and designs for the practice of the city (via experimental, designing and action research).
+RESILIENCE VALUE
+A resilient system of governance is
+the foundation for a resilient city. The
+establishment of the resilient system of
+governance is situationally determined,
+and requires room for experimentation,
+improvisation and learning.
+A new type of control and participation at the district level, Delfshaven Cooperative began in 2015 as a foundation; working towards a cooperative where likeminded committed people could work together for Bospolder/Tussendijken. By bringing together large companies and institutions with local residents initiatives can create benefits for all parties involved. The goal is to increase the performance opportunities of the place and for its people in the long term. The Delfshaven Cooperative is an innovation in working and should be monitored in order to draw lessons to be shared with other districts.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Embeds resilience thinking
+•	Supports knowledge sharing and networking
+34	DEVELOPMENT OPEN DATA PLATFORM
+Rotterdam has developed an online data log www.rotterdamopendata.nl. From this site it is possible for anyone to open datasets regardless of the content and conditionally use it. Through active sharing of data it is expected that there will be increased economic and innovation activities as well as new forms of cooperation to better develop the economy and Rotterdam as a smart city. The site also encourages greater participation and self-reliance. Although Rotterdam is among one of the frontrunners in Europe, the municipality still wants to further increase close cooperation between the government, citizens, businesses and knowledge institutions in the city and wider region, moving to a relationship whereby these parties can freely share ideas and datasets (open data). This action will ensure the ongoing development and dissemination of learning from the open data portal.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Supports knowledge sharing and networking
+35	FURTHER DEVELOP DIGITAL
+INFORMATION AND INSPIRATION PLATFORM
+Rotterdammers are bursting with great ideas for their city. The municipality works to harness this through various online platforms: www.rotterdam.nl/meedenkenendoen (to find inspiration and information) and www.citylab010.nl (to share innovative plans). It is however recognized that improvements to these could be made to increase customer-usability and consequently to inspire more people. This action will develop and enhance the existing citylabOlO platform.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Embeds resilience thinking
+•	Supports knowledge sharing and networking
+•	Builds profile
+NATIONAL PROGRAM ROTTERDAM ZUID
+ROADMAP TO THE NEXT ECONOMY
+1 KM2 SUSTAINABLE ROOFSCAPE CITY CENTRE
+36	SMART SCHOUWBURGPLEIN 7 SQUARE ENDEAVOUR
+The aim here is to create a pleasant living environment around the Schouwburgplein for all users, which is also future proof. The square and surrounding area should not only support healthy and active lifestyles but also provide enjoyment for users. Sustainability is an integral component taking into account clean energy, recycling of materials, additional water storage and Smart Grid. This project on street level can function as a catalyst project comparable to the water square. This project will be developed and implemented in cooperation with a wide range of stakeholders, sharing ideas, knowledge and resources. We will connect this project to resilience goals and enrich and facilitate where possible to maximize the resilience dividend. With the Schouwburgplein Rotterdam participates in the international 7 Square Endeavour Initiative, together with 6 other world cities.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Embeds resilience thinking in the areas development and provides opportunities for this to act as a catalyst for resilient thinking.
+•	Supports knowledge sharing and networking
+RESILIENT DELFSHAVEN
+RELATED ACTIONS
+37	BOSPOLDER TUSSENDIJKEN/PARK 1943
+The implementation Plan for the development of Park 1943 area seeks to act as a catalyst for strengthening the resilience of Bospolder/Tussendijken. Opportunity mapping and stakeholder analysis carried out for the area will enable the development to mobilize ideas of residents, boost health and encourage exercise, to better use open space and to create a water asset. Connection with development possibilities are given for Great Visserijplein and surrounding residential buildings such as green roofs and better use of the gardens.
+RESILIENCE VALUE
+•	Embeds resilience thinking in the development of Bospolder/
+Tussendijken
+•	Supports knowledge sharing and networking
+•	Supports holistic approaches to redevelopment targeted at improving the lives of the residents and users.
+RESILIENT PEPERKLIP
+INTERNATIONALE
+ARCHITECTUUR
+BIENNALE ROTTERDAM
+38	ROTTERDAM CENTRE FOR RESILIENT DELTA CITIES (RDC)
+RDC is a public-private network organization which aims to accelerate the transition towards safe and sustainable delta cities around the world. Together RDC members develop strategies for integrated solutions which enhance safety and add value in terms of spatial and ecological quality, social outcomes and economic potential. RDC will strengthen and enhance the knowledge sharing and innovation ecosystem to better capitalise on the Rotterdam leadership position on resilience.
+RESILIENCE VALUE
+•	Supports knowledge sharing, innovation and networking
+•	Embeds resilience thinking amongst Rotterdam's leaders
+39	NATIONAL CITYDEAL CLIMATE ADAPTATION
+Nine public partners signed on March 9th 2016 along with seven (semi) private partners called an agreement called Citydeal climate adaptation. The partners will collaborate on national and international levels in order to strengthen their approach to climate-proof design in the urban environment. The Citydeal will work with the partners over the next four years, to ensure a practical learning environment and breeding ground for innovation, which will be supported and shared across initiatives within the Rotterdam resilience strategy.
+RESILIENCE VALUE
+• Supports knowledge sharing and networking
+40	RESILIENT EUROPE
+RESILIENT EUROPE is the title of an EU URBACT partnership of 12 cities. These cities all invest in the development of a resilience strategy and its implementation. Emphasis is on an integrated approach, especially social and climate resilience. Funding is secured for the second tranche of the project partnership.
+RESILIENCE VALUE
+• Supports knowledge sharing and networking, specifically in this case to overcome implementation barriers.
+41	NATIONAL INNOVATION CHALLENGES: MAKE ROTTERDAM MORE RESILIENT
+The City Challenge contest provided 150 ideas for the City of the Future in 2016. There were 10 finalists, and the winner was announced in mid-April 2016. An idea has emerged for an "11th project" - an expansion of the final 10 ideas for an area development. Selected parties will now investigate in the designated pilot areas of focus feasible and viable approaches to integrate Resilience.
+RESILIENCE VALUE
+•	Supports bottom up - community led initiatives and builds cohesion.
+•	Demonstrates innovation applied practically in a development context

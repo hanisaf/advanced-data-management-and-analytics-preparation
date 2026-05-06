@@ -1,0 +1,937 @@
+﻿PILLAR 1
+Embrace
+Change
+Western Urban Nature Reserve	52
+Action Plan for Climate Change and	54
+Disaster Risk Reduction
+Prevention of Water-Borne Diseases	54
+Parque del Norte: A Pilot Green-Blue	56
+Infrastructure Experience
+Comprehensive Mobility Plan for	58
+Greater Santa Fe
+Greater Santa Fe Metropolitan	59
+Coordinating Bureau (ECOM)
+Large Socio-Productive Infrastructure	60
+Works
+Metropolitan Airport	60
+Regional Logistics	61
+Metropolitan Land Use Policy	61
+Green and Circular Economy	64
+Pilot zone for a new USW Integrated	64
+Management
+Informal Waste Collectors Inclusion	65
+Program
+PILLAR 2
+Connect to
+Opportunities
+Schools of Labor	68
+Youth Policy	69
+Resettlement of Families Living in	70
+Water-risk Areas
+Social Innovation Cabinet	72
+Social Real Estate Agency	72
+Comprehensive Urban Programs (CUP)	73
+Primary Social Support Teams	74
+Safe and integrated neighborhood	74
+corridors
+Expansion of the sanitary sewer	76
+network
+Santa Fe Online	77
+Master Plan for Belgrano Station and	78
+the Surrounding Area
+Specialized Tourism Market	80
+Healthcare hub	80
+Peri-Urban Vegetable Farms	81
+Foster Civic Engagement
+Santa Fe Nearby Program	84
+Strategic liaison for university	85
+outreach projects	
+Volunteer Program	85
+Santa Fe, an Entrepreneurial City	86
+Mercado Progreso: Creative Industries	88
+Idea Generator	91
+Thesilience	91
+Program Against Gender-Based	92
+Violence	
+Regularization of Business Activity	93
+Library-Park of the National	94
+Constitution	
+PILLAR 4
+Understand
+to Innovate
+Monitoring and Control Center	98
+ntegrated Information System	101
+Municipal Safety Observatory	101
+Assets Management Plan	102
+Coordinating Body for Infrastructure 102 Projects
+Report Card on Infrastructure	103
+Performance
+New Urban Drainage Paradigm	104
+nfrastructure Renovation in	105
+Downtown Santa Fe
+nstitutional Efficiency Program	106
+Accelerated Design Lab	107
+Team for Analysis and Strategic	107
+Projects Development
+Resilience and Early Childhood	108
+School of Resilience	110
+NETWORKING	112
+Network cities	113
+Network Partners	116
+NEXT STEPS	122
+APPENDICES	124
+Summary of Initiatives and Goals	126
+The Resilience Strategy in the city and	128
+global agenda
+Acronyms	131
+Participating Institutions	132
+Working Team	137
+LETTER FROM THE MAYOR
+Santa Fe, a land of opportunity
+Santa Fe has a vast experience in disaster risk management. The city has recovered from catastrophic floods and economic crises that have left painful wounds.
+After two disasters at the dawn of the 21st century (the overflow of the Salado River in 2003, and the heavy rains that led to significant flooding U12007), the city adopted disaster risk reduction as a core policy to be included in its development plan. At present, the city counts on contingency plans and early warning systems; it has also made progress in the field of flood risk mitigation; it has valued its ecosystem and redefined urban development rules. Santa Fe has built further capacity and preparedness and has recovered faster from climate events, more frequent in the last years.
+We have learned to embrace living with our rivers and we have come up with better solutions to water-related shocks. We know that saving lives is fundamental, but we want to take a step forward and move toward resilience.
+Cities throughout the world are facing increasingly complex challenges - social exclusion, climate change, organized crime, new economies, technological development, and conurbation. These challenges call for the adoption of new paradigms and approaches to city governance and urban management, in line with the international guidelines set forth in the Sustainable Development Goals, the Sendai Framework, the Paris Agreement and the New Urban Agenda.
+We believe in adopting resilience as our core approach for tackling these challenges, as resilience not only focuses on building the community’s capacity to emerge stronger from crises and acute shocks but also on managing chronic stresses. How can the city grow without causing environmental risk? How can we foster community integration, especially including children, young people, women and the elderly? These are some of the questions that guide our work. Because while we know that acute shocks and chronic stresses affect us all, the poor and the helpless are always among the hardest hit.
+To make progress along the path of resilience, we have counted on the invaluable support of the 100 Resilient Cities’ Network, pioneered by the Rockefeller Foundation, since December 2014. So far, we have created a Resilience Office, and we have developed a strategy with
+specific targets and projects designed in close collaboration with different city stakeholders and international experts.
+This document is a summary of the measures taken throughout a year-long process, and of the medium and long-term measures yet to be taken with a vision of building an integrated and thriving city, a safer community with a strong spirit of solidarity, solid and convergent systems, a sustainable economy with opportunities for young people, and a city with a metropolitan approach to development.
+We are convinced that this is a one-of-a-kind opportunity for Santa Fe. Our efforts have been awarded international recognition, and now the city is sharing its experience in different forums and city networks. Now, we count on a Resilience Strategy to shed light on the work to be carried out in the years to come.
+There is a new political wind blowing through Argentina, which prioritizes dialogue and collaboration among the different levels of the State, which acknowledges the existence of big problems and is strongly determined to solve them, and which builds on values such as education and hard work to build a more equitable and fair country. This is a good starting point. Cities are privileged settings where people’s lives develop. Cities can promote well-being or grief, depending on the future we envision and the way we manage it.
+The City Government is fully committed to working hand in hand with the community to integrate resilience-driven thinking, social inclusion and sustainable development into public policies, thus turning Santa Fe into a land of opportunity.
+JOSE MANUEL CORRAL
+Mayor of the city of Santa Fe
+“The City Government is fully committed to working together with the community to integrate resilience-driven thinking, social inclusion and sustainable development into public policies, thus turning Santa Fe into a land of opportunity.”
+An
+exemplary vision of resilience
+On behalf of the entire ioo Resilient Cities family, I want to congratulate Mayor Corral and the city of Santa Fe on the release of Santa Fe Resiliente, a major milestone for the city and for our partnership. Santa Fe Resiliente lays out an exemplary vision of urban resilience for the city and the region. A dynamic city with a rich history, Santa Fe builds on its past as it lays the foundations for a resilient future.
+The birthplace of Argentina’s constitution, Santa Fe is a modern metropolis that serves as an education and science hub as well as a center for the one of the country’s richest agricultural regions. Building on groundbreaking work the city has already done, this Strategy sets out a clear vision to develop further resilience to Santa Fe’s myriad 21st century challenges.
+A city surrounded and by water, Santa Fe has long had to contend with rivers and lakes that regularly challenge the security of its urban fabric. Catastrophic floods, including in 2003 and 2007, both of which inundated more than a third of the city and caused the evacuation of over 130,000 people, led to major political change and pioneering work in in disaster risk reduction.
+However, the city is committed to developing more meaningful urban resilience that strengthens the entire urban ecosystem, and enriches the lives of all of Santa Fe’s residents, especially its most vulnerable. Through the commitment and leadership of Chief Resilience Officer Andrea Valsagna and her team, the city has designed an ambitious Strategy that addresses far more than the shocks it has endured from flooding. The Strategy provides initiatives and actions that tackle stresses such as endemic crime, social exclusion, deep economic divisions, and other hardships experienced regularly by those living in informal settlements in the flood plains. It also embraces its wetlands and rivers as assets rather than only challenges, and provides plans for major parks and natural reserves that will provide educational, social, and economic benefits.
+This Strategy places stakeholder engagement at the center of all its efforts. CRO Valsagna and her team ensured that regular engagement with the city’s different communities and sectors was fundamental to their work. The Strategy reflects this, as well as the commitment to
+embed this active participation in the future decisions the city makes. Their work presents one of the clearest examples of what can be achieved by planning through a lens of resilience and it can serve as a model to others. From its early work and active engagement with the network, Santa Fe is well positioned to help us in leading the global urban resilience revolution.
+Santa Fe has already shown its ability to recover, adapt and lead through innovative change. As the hard work now truly begins, we are excited to see it unfold and continue our partnership. Congratulations again on this enormous achievement.
+MICHAEL BERKOWITZ
+President, 100 Resilient Cities
+“From its early work and active engagement with the network, Santa Fe is well positioned to help us in leading the global urban resilience revolution.”
+A long term vision for the city
+What will Santa Fe be like in 20 or 50 years’ time? What do we want it to be like? These questions sum up the long way we have come since the city joined the 100 Resilient Cities Program, pioneered by the Rockefeller Foundation, over a year ago.
+The challenge was to analyze current shocks and stresses from different viewpoints and with a long-term vision. We consulted different stakeholders - civil society actors, the private sector, academia, and different state level - aiming to get their input. Once again, we opened debate on basic questions, such as: What should be improved to build an inclusive, integrated, connected and thriving Santa Fe, pursuant to the goals set forth in the Action Plan developed by the City Government led by Mayor Jose Corral?
+At present, it goes without saying that city management requires a comprehensive and integrated approach to challenges faced by different sectors. Quality of life should not only be measured in terms of access to basic services, but also in terms of connectivity and transport, infrastructure, social cohesion, open public spaces and integrated habitats, the value of human capital and citizen engagement.
+Local governments are becoming more prominent in the international agenda, because cities and their regions face the biggest challenges of the 21st century. And local governments are the closest to the people; they are the most acquainted with local stresses, shocks and their negative consequences, and they must resort to new paradigms to address them and plan the city development.
+The Resilience Framework has enabled us to analyze communities’ capacity to address and overcome crises while dealing with chronic stresses. This approach analyzes urban development through the lens of equity, governance and sustainability, and takes into account all sides of a problem. Because low-income households are most likely to live in low-lying areas at greater risk of flooding, and endure the highest unemployment and violence rates; because infrastructure needs (services, transport, sewers) are correlated with climate change needs; because challenges transcend jurisdictional borders and call for a metropolitan approach; because sustainable means of living go hand in hand with lower vulnerability to risk.
+The collaborative work and networking activities carried out with other cities, experts and city stakeholders have been most enriching, and encouraged us to set ambitious targets.
+Santa Fe’s Resilience Strategy envisions a city that embraces change, connects to opportunity, fosters residents’ engagement, and regards innovation as a knowledge-based outcome; a thriving city that looks forward, is not afraid of change and spearheads regional development; a city with a dynamic community that protects life and the environment, thus ensuring a healthier place for all of us to live in. Santa Fe has enthusiastically lived up to the challenge of dreaming big, of having a long-term vision. This document sums up the measures to be taken in order to make those dreams come true. It is not an easy task; we must join efforts, build on existing capacities and knowledge, and work together to increase the chances of success. But we know we can do it, because this document is the result of hard teamwork and the contributions made by hundreds of institutions, experts and social leaders who have done their part.
+I would like to express my gratitude to the 100RC Program for their continuous support and to Arup, our strategic partner, for helping us take our first step. Now, it is up to us -Santafesinians- to work together to build a more resilient Santa Fe.
+ANDREA VALSAGNA
+Chief Resilience Officer (CRO), 100 Resilient Cities
+“Santa Fe has enthusiastically accepted and lived up to the challenge of dreaming big, of having a long-term vision. This document sums up the measures to be taken in order to make those dreams come true.”
+Executive
+summary
+Santa Fe is one of the ten biggest and oldest cities in Argentina. It is the birthplace of the National Constitution and a center of scientific, cultural, commercial and service activities. It is located in a region with a growing agro-industry and bio-economy sector. Almost three-quarters of its territory is covered by rivers and swamps, which have shaped its growth throughout history.
+After the catastrophic floods of 2003 and 2007, the city developed a strong risk reduction policy to further develop the preparedness of its government, population, institutions and infrastructure systems to better deal with water-related emergencies. Santa Fe has learned from disaster, for which it has been awarded domestic and international recognition; but it has also discovered that there are other shocks and chronic stresses to be tackled.
+In December 2014, Santa Fe was selected to join the 100 Resilient Cities Network (100RC), pioneered by the Rockefeller Foundation; and in 2015, the city started to work on the preliminary assessment and the design of resilience-driven initiatives.
+City violence, housing deficit, habitat degradation, obsolete infrastructure, environmental problems, social exclusion and the lack of personal, social and economic development opportunities are some of the stresses identified in the Preliminary Resilience Assessment (PRA), published in August 2016.
+Following the PRA, the city Resilience Office worked very hard for ten months, conducting studies into discovery areas and asking for advice; organizing workshops, interviews and work meetings that were attended by over 1000 people to identify potential projects.
+The Resilience Strategy is the outcome of this highly participatory process, and is structured into four pillars, namely:
+1.	Embrace Change. A Santa Fe that looks into the future and works at a metropolitan scale.
+2.	Connect to Opportunity. A Santa Fe that grows with equity and guarantees access to basic services.
+3.	Foster Residents’ Engagement. A Santa Fe that fosters a sense of belonging, social cohesion and the right to the city.
+4.	Understand to innovate. A Santa Fe that manages knowledge and takes advantage of new technologies to foster local development.
+This document is organized into five sections: The Introduction presents the City Resilience Framework. The “Context and Challenges faced by Santa Fe” section describes the city’s strengths, weaknesses and emerging challenges through the lens of resilience. The “Resilience Strategy” section details the city’s vision, pillars and objectives, and includes a description of 50 initiatives devised as an ecosystem. Finally, the “Networking” section describes the collaborative work carried out with other 100RC cities and partners; and the “Next Steps” section depicts the actions to be taken to implement the Strategy.
+But this is not just a document, it is a call to action, a dynamic statement of goals and targets, initiatives and projects; a pledge made by Santa Fe’s residents to build a dynamic and thriving city, a city that is not afraid of innovation and change, a city full of opportunities to grow. A city that has learned from challenges. A city that protects life and embraces living in harmony with its rivers. In short, a more resilient Santa Fe.
+100 reSilient CitieS initiatiVe
+The city of Santa Fe, Argentina, was selected to jin 100 Resilient Cities, a program pioneered by the Rockefeller Foundation to help more cities around the world build resilience to the physical, social, and economic challenges that are a growing part of the 21st century.
+The 100 Resilient Cities (100RC) program fosters the creation and adoption of a resilient vision to not only be better equipped to deal with catastrophic
+events -such as earthquakes, fires, floods, etc.- but also with stresses that weaken the fabric of a city
+INTRO-
+DUCTION
+on a day-to-day or cyclical basis, such as aging infrastructure and unemployment.
+For Santa Fe, being selected as a member of the 100RC brings recognition by the international community on the progress made by the city in the field of water-related hazards and disaster risk reduction; and additionally presents a one-of-a-kind opportunity to tackle new 21st century urban problems such as social inequity, violence, climate change and sustainable development. Within this framework, the Santa Fe Municipality organized workshops to design a Resilience Strategy, based on the program guidelines.
+The 100RC Network supports member cities with
+logistics and funding so that they can appoint a Chief Resilient Officer (CRO1) and hire a team of professionals to lead resilience-building activities in the city. The network also offers member
+cities technical assistance and resilience-building tools and expertise to help them develop a robust Resilience Strategy. It also facilitates cities' access to the 100RC Platform of Partners to help them plan and implement their strategy process. Finally, the 100RC network offers a global resilience
+partnership to help member cities learn from each other's experience and help one another.
+The strategy development is a three-cycle process with the following goals:
+LIFECYCLE 1................ LIFECYCLE 2.....................
+Orientation and	Resilience Strategy Development Process
+Launch Process
+LIFECYCLE 3
+Implementation and Monitoring Process
+>
+CRO WAS APPOINTED
+STRATEGY
+DEVELOPMENT
+RESILIENCE
+PRELIMINARY
+STRATEGY WAS PUBLISHED
+MEMBERSHIP WAS ANNOUNCED
+AGENDA-SETTING	PROCESS BEGAN
+WORKSHOP TOOK PLACE
+ASSESSMENT
+First steps toward Strategy Development.
+To start working with the 100RC network, the Municipality of the city of Santa Fe had to sign a grant agreement with 100RC and then select and appoint a
+Chief Resilience Officer. During the first phase, the 100 Resilient Cities Program Workshop was launched in Santa Fe.
+A Preliminary Resilience Assessment was carried out to analyze emerging themes, with the goal of developing a Resilience Strategy.
+STAGE 1. We identified the main stresses and threats facing the city. Through a collaborative process of stakeholder consultation and research, we made a baseline evaluation and identified emerging cross-cutting resilience themes in Santa Fe. The Preliminary Resilience Assessment marked the conclusion of Phase 1 of the Resilience Strategy Development process.
+STAGE 2. We analyzed emerging themes with the goal of developing a Resilience Strategy. We focused on the Preliminary Resilience Assessment themes, and organized workshops, conducted research and drafted reports to delve into the challenges and identify initiatives to tackle them. The launch of the Resilience Strategy marked the conclusion of Phase 2.
+Implementation of the Resilience Strategy.
+Different initiatives are implemented with the intention of building a more resilient city.
+WHAT IS RESILIENCE?
+Resilience is a term that emerged from the field of ecology in the 1970s, to describe the capacity of a system to maintain or recover functionality in the event of disruption or disturbance. It is applicable to cities because they are complex systems that are constantly adapting to changing circumstances-. Thus, city resilience is defined as the capacity of individuals, communities, institutions, businesses, and systems within a city to survive, adapt, and grow no matter what kinds of chronic stresses and acute shocks they experience. To maintain a consistent view of what resilience means to cities worldwide, 100RC strongly recommends a resilience framework that enables you to analyze existing information about a city, and to articulate challenges and opportunities through the lens of resilience.
+The City Resilience Framework (CRF3) aims to articulate urban resilience in a measurable, evidence-based and accessible way that can inform urban planning, practice and investment patterns. It also describes resilience as the capacity of cities to function, adapt and change their behavior to survive and thrive shocks and stresses4.
+The CRF comprises 4 dimensions, 12 drivers and 52 sub-drivers that help cities articulate processes associated with building resilience. When taken as a whole, they represent a city’s ability to emerge stronger from a wide range of stresses and shocks. This provides a lens to understand the complexity of cities and can help them assess their capacity to recover, identify critical areas and develop initiatives and programs to improve such capacity.
+It also provides a common language that enables cities to share knowledge and experiences.
+QUALITIES OF RESILIENT CITIES
+Reflective: Using past experience to inform future decisions.
+Resourceful: Recognizing alternative ways to use resources.
+Robust: Well-conceived, constructed and managed systems.
+Redundant: Spare capacity purposively created to accommodate disruption.
+Flexible: Willingness and ability to adopt alternative strategies in response to changing circunstances.
+Inclusive: Prioritize broad consultation to create a sense of shared ownership in decision making.
+Integrated: Bring together a range of distinct systems and institutions.
+reSilienCe Strategy deVelopMent proCeSS
+The development and implementation of a
+Resilience Strategy in Santa Fe represents a one-
+of-a-kind opportunity to bring about innovative
+and joint solutions, develop the preparedness of
+the city and the community, overcome current
+stresses and deal with future challenges. To that
+end, several factors proved to be essential to ensure a comprehensive and holistic approach: firstly, the innovative methodology and guidelines provided by the 100RC program, and secondly, the broad
+consultation process carried out by Santa Fe that
+involved different State levels, the private sector,
+academia and civil society.
+The actions developed during the strategy
+process were identified by gathering input
+from stakeholders with relevant knowledge and
+expertise, analyzing surveys and studies on the
+Partners' Platform, interviewing technical staff
+and government officials, conducting public
+opinion polls, organizing thematic round tables and workshops, sourcing best practices from cities in the Network, and attending international summits
+such as Habitat III, Mercociudades and UNISDR
+Regional Platform. Therefore, this Strategy, its
+goals and initiatives are based on the invaluable
+insight provided by different City stakeholders.
+This participatory process allowed us to leverage
+existing knowledge and initiatives in the
+community, identify strengths and assets, gain
+access to new sources of information to make a
+deeper assessment, and identify new stakeholders, potential partners and projects; and all this resulted in a sound Resilience Strategy. It also gave us the
+chance to interact with different actors and ensure a multidisciplinary approach to city resilience.
+To this end, ordinance was passed by the city of Santa Fe to create two bodies that offer advice and guidance to the City Resilience Office, namely: the Municipal Committee of Resilience, made up of representatives from different City departments, and the Resilience Advisory Board, whose members represent the private and public sectors, as well as civil society.
+CONTEXT ND CHA-
+
+LLENGES
+Context
+a hiStoriC City
+Santa Fe, the capital city of the homonymous province, is located in Argentina's east-center. Founded in 1573, it was one of the first urban settlements in the country, and played a key role throughout its history, especially in colonial times, when the port of Santa Fe was granted the right to charge taxes on all passing ships (this privilege was called Puerto Preciso), and during the consolidation period of the Argentine Republic.
+In 1651, due to different territorial conflicts and river overflows, the city was moved to its current site, in the confluence of the floodplains of the Salado and the Saladillo Rivers. Its urban grid expanded towards the Setubal lagoon waterfront and the Coronda River, across from the islands in the Parana River. This is why its borders are mostly rivers and over 70% of its territory -which has an area of 26,800 hectares- is made up of rivers, lagoons and swamps.
+Santa Fe has a hectic political and institutional life, in keeping with its status as the capital city of the province. Due to its strategic location and port, the city has become a key social and economic actor, a melting pot where traditional and innovative cultural trends reflect on its buildings, churches, museums and heritage sites.
+The city's identity has also been shaped by some highly significant historical events: the Argentine Constitution was first enacted here in 1853, and the city also hosted most of the Constitutional Assemblies that amended the National Constitution.
+A STRATEGIC LOCATION
+Santa Fe is part of the “Pampeana” region - a key industrial, economic and agricultural area. Due to its strategic location in the so-called bi-oceanic corridor between the Pacific and Atlantic oceans, the city of Santa Fe has become an important center of trade, commerce and multimodal strategic communication with top markets.
+The city expanded towards the outskirts, giving birth to a new urban area called Greater Santa Fe. The city is also linked to the city of Parana (in the province of Entre Rios) by means of an underwater tunnel, and its metropolitan area is one of the biggest urban networks in the country.
+Santa Fe is also renowned for its knowledge production and educational facilities, namely: 3 national universities, 14 scientific and technical institutes that work in close collaboration with the UNL University and Conicet, and a large number of higher education institutions, professional associations and top researchers.
+As a consequence of this, Santa Fe has regular interaction with governments and companies, offers a wide array of services, incorporates scientific and technological innovations into production processes, and promotes the creation of an entrepreneurial environment and the incubation of startup companies.
+A VULNERABLE TERRITORY
+Santa Fe’s geographic location has defined its features and shaped its development: it is located at the meeting point between the floodplains of the Salado and the Parana Rivers and is affected by their periodic overflows.
+As time went by, the city grid started to grow; and people soon settled in low-lying areas at greater risk of flooding, disregarding or trying to overcome this potential threat. To this end, different measures were taken: a complex levee and flood protection system was built, low-lying areas were filled, and the natural drainage system was altered. As a result of these measures, Santa Fe has become a vulnerable territory, exposed to water-related risks such as overflows, heavy rains or both.
+Throughout its history, Santa Fe has experienced several environmental disasters that claimed many lives and caused damage to infrastructure and economic losses to businesses. The two most significant floods -the first one caused by the overflow of the Salado River, and the second one by heavy rains- took place in 2003 and 2007, respectively, and they were the costliest disasters in the history of the city. They caused severe damage to infrastructure, property and systems, and contributed to people’s loss of trust in the government and the weakening of ties between institutions and the community.
+In 2008, a new administration took office and introduced a new paradigm to tackle this problem: it adopted a new disaster risk management system that became the core policy of its development
+plan. The administration designed a contingency plan and protocol, developed an early local warning system and evacuation plans, organized emergencytraining activities and awareness-raising campaigns, and designed a work plan to improve flood protection and waste management, and increased green space and urban woodlands. City regulations were amended to limit the number of settlements in vulnerable areas, and the public services network (potable water and sewer network) was expanded to reach vulnerable neighborhoods. Because of these measures, the city has been awarded a “Role Model City” status, and its mayor has been appointed “Champion of UNISDR’s Making Cities Resilient campaign”. Santa Fe has become a leader in this field, for its successful management of overflows and heavy rain in subsequent years.
+AND
+31
+HYDRO-METEOROLOGICAL EVENTS
+The city of Santa Fe is located in a vulnerable territory, exposed to more frequent and extreme hydro-meteorological events as a consequence of climate change. The city depends on the overall condition of its flood protection and drainage systems to minimize the possibility of urban flooding caused by river overflows or heavy rains. These are complex and costly systems that need regular maintenance and surveillance to ensure their proper operation in case of an emergency.
+The city is surrounded by 64 km of flood protection embankments, and has 53 pumping centers equipped with 152 pumps. Due to the flatness of the land, water drainage is slow, which causes direct damage to road networks, bridges and other infrastructure.
+Since 2008, the city has implemented several initiatives and is now better prepared to face natural hazards. Records show, however, that the number of environmental events has increased lately as a consequence of climate change; therefore, it is essential that current and future actions plans consider infrastructure maintenance and enhancement.
+Thus, the main threats are associated with these environmental phenomena on the one hand, and on the other with the potential failure of protection infrastructure and its impact on the interdependency of systems. Threats are also associated with water-borne disease outbreaks and with the fact that the condition of this vulnerable area heightens the impact of national economic and institutional crises on this littoral region.
+PHYSICAL STRESSES
+The city grew towards the north and the west without an orderly urban planning policy; thus, the neighborhoods in those areas did not have access to basic public services. In recent years, these neighborhoods gained access to the drinking water supply network, which now serves 96% of households. At present, the main drawbacks are associated with poor road networks and lack of access to the sanitation and natural gas systems. The situation is further aggravated by insufficient or obsolete infrastructure, lack of maintenance and difficulties in accessing funding to upgrade systems and networks.
+Furthermore, despite the progress made by the city in the field of urban waste management (due to the construction of a waste management facility and a landfill site, and the introduction of waste sorting practices), waste collection is still a serious problem. Between 2011 and 2015, an average of 374 tons of waste went to landfill on a daily basis, with an estimated lifespan of 5 to 7 years. Less than 4% of all waste is recycled and traded by cooperatives. There are 600 informal waste collectors who work in unhealthy conditions in small garbage dumps, and garbage ends up clogging the drainage system.
+SOCIAL AND ECONOMIC STRESSES
+The basic needs of 5.5% of the households in the city of Santa Fe are not met. At the provincial level, this figure increases to 97%; and at the national level, to 12.5%. However, this figure rises to 13.8% and 10.3% in the neighborhoods located in the northwest and the coastal areas of the city, respectively, home to most low-income households5. It is very difficult for a family to have access to affordable and safe housing options in the city of Santa Fe; over 33% of the people are not home owners: 17% rent a house and 15.8% live either in a land or property which is not their own, or in a squatter or borrowed house.
+Furthermore, 1,500 houses are located in low-lying areas at greater risk of flooding or where water risk cannot be mitigated (outside the levee ring). 3,829 people live in those houses, and 47% have had to be evacuated due to river overflows.
+As for the city’s economic situation, the employment rate has improved in the last two years and the figures match those of other areas in the Pampas region. In 2017, the commercial activity rate in Greater Santa Fe amounted to 43.6 points, and although the city’s unemployment rate (5.1%) is lower than the national unemployment rate (7.6%), the truth is that one out of three people of working age is unemployed or is not a job seeker. This figure is even higher in the case of women and young people. The primary sources of formal employment are business (23%), teaching
+(13%), industry (10%), personal services (10%) and construction (9%)6.
+Endemic crime and violence are critical stresses faced by the city of Santa Fe. For 15 years, the homicide rate in Santa Fe city has been higher than the national average; and in 2014, it reached its peak with 22 intentional homicide victims per 100,000 people. 75.3% of homicide victims are shot, as guns are the main weapon used to perpetrate this type of crime. Most homicide victims are men (92.2%) and young people: 48.2% of the victims were aged between 14 and 24.
+eMerging ChallengeS and opportunitieS
+In the Preliminary Resilience Assessment, some critical shocks and stresses were identified and further analyzed to gain a better understanding of the causes and interrelations and to develop projects and initiatives aimed at building city resilience. The emerging challenges were:
+-	Endemic Violence and Crime: increasing violence, security problems, poor performance of law enforcement and criminal justice systems; high homicide rate.
+-	Housing Deficit: precarious housing and slum settlements in low-lying areas at greater risk of flooding.
+-	Environmental Management: weaknesses are associated with waste disposal and lack of recycling
+activities on the one hand; and scavengers and their unhealthy working conditions on the other hand.
+-	Disaster Risk Management: pending drainage works, flood protection infrastructure weaknesses, vulnerable sectors of the population are among the hardest hit (no access to basic public services, precarious housing, violence and waste collection problems), and lack of residents' commitment to live in harmony with their environment.
+-	Young People and Employment: concern for jobless young people and the economic perspectives of the city. There are too many education and vocational training options whereas there is little culture of hard work; and this impacts people's access to jobs.
+-	Transportation and Mobility: poor urban mobility and few public transport options hinder the social integration of communities from certain neighborhoods.
+-	Economic Situation: commerce, retail trade and services are the most important economic activities in the city; however, there is undeveloped potential to achieve economy diversification, and there are underused assets and innovation opportunities.
+Based on this Assessment, Santa Fe set the following goals to better understand the aforementioned challenges, and thus identify the best resilience-driven initiatives and solutions.
+GUIDING QUESTIONS AND TARGETS
+-	Improve understanding of stresses, like safety and urban violence, in order to strengthen community integration and create opportunities, especially for young people so that they can recover the culture of work and aim to make an honest living.
+-	Identify squatter settlements and analyze the obstacles inherent to resettling families who live in flood prone areas; improve neighborhood conditions and foster inclusive communities by creating job opportunities and facilitating access to decent housing.
+-	Identify critical assets and key infrastructure threatened by climate change; gather updated information about the condition of the infrastructure system, and adopt a metropolitan approach to the expansion of the basic services network.
+-	Redirect resources, invest in maintenance and redraft plans taking into account climate change challenges, water risks and the increased demand on services, from a metropolitan viewpoint.
+-	Identify potential economic developments to turn Santa Fe into a regional role model and boost the sectors that create more quality jobs.
+-	Regard water risk management as a transversal theme, which must be inevitably included in every city sustainable development plan.
+CONTEXT AND CHALLENGES SF RESILIENT
+THE PROCESS IN FIGURES
+PUBLIC PERCEPTION SURVEYS (IN PERSON)
+EXPERT
+SURVEYS
+RESETTLED FAMILY INTERVIEWS
+PARTICIPATORY
+WORKSHOPS
+WORK MEETINGS WITH OFFICIALS AND EXPERTS
+COLLABORATIONS WITH OTHER CITIES IN THE NETWORK
+RESILIENCE DISSEMINATION EVENTS
+INTERNATIONAL EVENTS ATTENDED
+STRATEGIC PARTNERS AND PLATFORM PARTNERS CONSULTED
+#
+408
+57
+20
+3 9 8 6
+4 6
+37
+LESSONS LEARNED
+Throughout the Resilience Strategy Development process, three important lessons were learned: first, the process of analyzing challenges identified that priorities change according to the perceptions of different social actors, namely: government, city leaders and the community in general.
+However, every city actor and sector agrees that violence and lack of safety should be given top priority. As for the rest of the challenges, it is interesting to see how opinions differ: where as the community in general thinks that the city should focus on the creation of job opportunities and then on people’s access to basic public services
+and infrastructure. All of them recognize that there is little social cohesion and little respect for coexistence rules, two key factors that should be reinforced in order to build resilience.
+Second, through participatory workshops and focus groups, the fact that safety problems are closely related to other stresses emerged. In order to prevent crime, the State should not only improve law enforcement mechanisms and combat social exclusion, but also coordinate the performance and the services provided by different governmental agencies and meet the needs of vulnerable sectors of the population.
+Third, the inclusion of an integrated approach to security and habitat on the one hand, and to
+infrastructure and economy on the other hand, was confirmed. The collaborative work carried out by representatives of civil society, the government and the private sector was enriching, and community building emerged as the main resilience challenge. Housing plans and control policies are not enough to tackle such a complex problem. The city must redouble efforts to improve social cohesion, which goes far beyond facilitating people’s access to safe and affordable housing and services.
+Likewise, infrastructure plans should not only be regarded as a response to the increased demand on services and on service efficiency, but also as a key factor to tackle challenges such as social inclusion and economic development.
+Finally, there are two issues that appear over and over again: on the one hand, the city needs to adopt a metropolitan approach to public policy development, because emerging themes transcend in every case jurisdictional borders. On the other hand, there is a pressing need to improve data records, optimize resources and produce indicators to assess policy impact. The absence of accurate information and records within the sphere of the State makes it more difficult for the government to engage in public debate and decision making processes to solve the challenges faced by Santa Fe and the region.
+SFC RESILIENT
+RESI-
+LIENCE
+STRATEGY
+40
+StruCture
+Santa Fe Resilience Strategy is structured around
+4 pillars, 13 goals and 50 initiatives that reflect the
+city Vision.
+The Vision depicts the aspirations the city and its
+people have for the future, that is, our target, the
+kind of city we want to become - a more resilient
+Santa Fe.
+The Pillars, which are based on the shocks and
+stresses identified in the Preliminary Resilience
+Assessment, are long-term goals that depict the
+attitude and the strategic path the city should follow to fulfill its resilience vision. These pillars enhance the cross-cutting approach Santa Fe used to develop its Resilience Strategy.
+Every pillar has some Goals, objectives to be
+achieved that allow us to assess the progress made toward becoming a more resilient city.
+The Initiatives are resilience-driven ideas, actions, projects, programs or plans to achieve more than one goal; they are related to the pillars and make sense of the concept of ecosystem, which will be defined later on.
+The 50 initiatives have been grouped taking into
+account two criteria: first, their impact on resilience building and the links among them. Thus, initiatives can be classified as follows:
+- Featured: initiatives that stand out for their
+capacity to generate synergy, and that embody several drivers and qualities of the Resilience
+Framework. These are emblematic projects to advance the city vision.
+-	Supporting: initiatives that complement or expand a featured initiative.
+-	Specific: ideas, projects, programs or actions to achieve one or more goals.
+The second criterion has to do with the initiative scope. Thus, initiatives can be classified as follows:
+-	Study: document that delves into a theme or contains recommendations aimed at taking some specific action to solve a problem.
+-	Plan: high level planning. Document that depicts general goals and defines the programs or actions to achieve them.
+-	Program: intermediary level planning. It includes projects and actions to be carried out in a specific area or sector.
+-	Project: operational level planning. Concrete measure to make a specific action come true.
+-	Institution: creation of a space, an institution or organization with specific functions within the government (for example, city organ/body, work team).
+The list of initiatives includes some programs existing in the “Santa Fe 2020” Plan, which have been enriched by a resilience lens, as well as some new projects based on the participatory work and the surveys previously carried out to come up with better solutions for the detected challenges.
+RESILIENCE STRATEGY
+42
+43
+RESILIENCE STRATEGY AS AN ECOSYSTEM
+A resilient approach advocates holistic analysis and aims to incorporate the opinion of different stakeholders to find more effective solutions to problems. It is upon this premise that the city developed the concept of the Resilience Strategy as an ecosystem, where initiatives are interrelated and share some common ground and actions.
+The next picture illustrates this interrelation among the four Strategy pillars. Each pillar has its own goals; and although initiatives are specific to each pillar, they can also help achieve the goals of other pillars. For this reason, the more holistic initiatives are placed in these areas where the pillars overlap.
+In next pages, each pillar’s description incorporates a visual that shows these links between goals and initiatives, reinforcing the above mentioned interrelations. In addition, the technical sheet for each initiative includes the goals addressed and the Resilience Framework drivers impacted.
+Finally, a leader is identified for each initiative as well as a series of partners that can collaborate in the realization of actions, by helping to articulate resources and capacities of different public agencies or private and civic institutions. Such groups are not exhaustive nor exclusive, and other public agencies, businesses and institutions could join at any time during implementation.
+Santa Fe has become increasingly vulnerable to hydro-
+meteorological phenomena, and this has only been intensified by climate change. In recent years, the city adopted a new disaster risk management system as the core policy of its development plan, thus turning challenges into opportunities to learn. This has improved the city’s preparedness for future flood emergencies and has provided the means for the city to grow in an orderly and sustainable fashion. It is in recognition of these advances that the city has been granted several international awards.
+The city must consolidate this course of action and incorporate new approaches and tools in order to face the challenges posed by the 21st century. It must also resort to prospective thinking when it comes to developing its plans and projects. Adapting to the environment rather than trying to change it is key; and this should translate into specific action plans to reduce risk, mitigate climate change impact, protect ecosystems and significantly improve waste management.
+These challenges call for the adoption of new city management and planning practices that take into account the trends of urban concentration and conurbation seen worldwide. Santa Fe acknowledges this process and is ready to face the challenge. The metropolitan area of Greater Santa Fe is still in gestation and represents a turning point towards adopting a resilience-driven design and development practices.
+The construction of big infrastructure projects -such as a port, an airport, road networks, industrial parks and logistics centers, mobility systems and waste management facilities- which bear direct consequences on the economic development of the region, calls for the adoption of innovative approaches.
+PROJECT/FEATURED
+This is an innovative project currently underway that comprises environmental care, education, flora and fauna protection, water risk reduction and the struggle against poverty. The French Facility for Global Environment (FFEM) contributes to the financing of this project that aims at turning two of the seven rainwater reservoirs located in the West side of the city into highly attractive green public spaces. This new area, to be incorporated in the urban grid as a protected nature reserve, will feature a plant nursery and walking paths around indigenous flora and fauna. The initiative involves resettling the families who live in flood prone areas, measuring and monitoring climate change variables, launching socio-productive ventures, organizing educational and awareness-rising activities and building the “Flood Memorial”.
+Target: By 2020, Santa Fe will expand the Reserve and incorporate two more reservoirs located to the southwest of the currently protected area.
+Status: Currently underway. Results Medium term.
+Leader International Cooperation, Investment and Foreign Trade Agency of MCSF.
+Partners: FFFEM, UNL, Rennes II University, Rennes Metropolis, Movimiento Los Sin Techo (The Roofless Movement), National Water Institute, UNISDR, Ministry of Environment of the Province of Santa Fe, Mercociudades, Aves Argentinas (Argentine Birds), Fundacion Habitat y Desarrollo (Habitat & Development Foundation).
+PLAN / SUPPORTING
+02. ACTION PLAN FOR CLIMATE CHANGE AND DISASTER RISK REDUCTION
+Santa Fe has a solid and sustained Disaster Risk Reduction policy, for which it has been granted several international awards such as UNISDR Campaign Role Model City and the United Nations Sasakawa Award. It is also a signatory to the 2016 Global Covenant of Mayors for Climate and Energy, which demonstrates the city’s strong commitment to confront climate change. It is important to consolidate and further encourage these actions, in order to build resilience.
+Targets:
+•	In 2018, Santa Fe will have a local Disaster Risk Management Plan, in line with the new guidelines of the Sendai Framework, with special emphasis on educational and awareness-raising activities aimed at prevention;
+•	In 2019, Santa Fe will have an action plan to face climate change and mitigate its effects, and reduce the city’s contribution to climate change in line with the Paris Agreement.
+Status: New.
+Results Shortterm.
+Leader: Resilience Office.
+Partners: Risk Management Office of MCSF; Cooperation, Investment and Foreign Trade Agency of SFCCH; Undersecretariat of Environment of MCSF; UNISDR Regional Office The Americas; UNL; RAMCC; ICLEI.
+PROJECT / SUPPORTING
+03. PREVENTION OF WATER-BORNE DISEASES
+Leptospirosis is a zoonotic disease of global importance.
+The provinces of Santa Fe and Entre Rios have the highest incidences of leptospirosis in Argentina, and the highest numbers of reported outbreaks and deaths per year; therefore, it is a high-priority public health problem at the regional level. This is partly due to regional climate conditions and frequent floods.
+Mosquito-borne viral diseases, such as Dengue, Zika and Chikungunya, are also sources of concern, because the city of Santa Fe is in the vicinity of southern Brazil and Paraguay, two hyperendemic areas.
+To deal with these challenges, the city filed a request for funding before the Secondary Cities Project, via the United States of America Embassy in Argentina. The first stage of the project aims at implementing a cartographic and satellite surveillance system and a zoonotic information database to improve people’s understanding of how to protect themselves and their pets.
+Target: In 2020, the city will have maps to illustrate the location of waterlogged areas, host animals, vector surveillance stations (oviposition traps for Aedes aegypti) and vulnerable populations in the Vuelta del Paraguayo, Pompeya, Nueva Esperanza and Jesuitas neighborhoods.
+Status: New.
+Results Medium term.
+Leader: Secretariat of Health of MCSF.
+Partners: School of Biochemistry and Biology (FBCB) - UNL; Climate Change and Emerging Disease Observatory, School of Medicine - UNL; School of Humanities and Science - UNL; INER Dr. Emilio Coni; U.S. Embassy in Argentina.
+04. parque del norte:
+a Pilot green-Blue
+infrastructure
+experience
+PROJECT/FEATURED
+This initiative is part of Plan Norte -a priority for the municipal government of Santa Fe which aims for orderly urban growth and the development of projects (water, road, services, employment, vocational training, education, health and housing) in order to improve residents’ quality of life. The Parque del Norte Project involves recovering and revitalizing 80 hectares of land formerly used as a landfill site, the municipal Botanical Garden, and several derelict green spaces. It is also a comprehensive public-space management experience that takes into account environmental and residential aspects, as well as blue and green infrastructure efforts. It provides for the construction of promenades and sports facilities, the cleaning up of lakes and storm drains, the creation of a School of Labor and the enhancement of the district center facilities. It also aims at developing real estate ventures and attracting large-scale public-private investments to build houses and new neighborhoods already included in the city Urban Zoning Plan.
+Santa Fe will create participatory spaces for the residents to engage in the urban design of the park, especially those who live in its vicinity.
+Target: By 2020, the city will have already launched the first
+Status: New.
+Results Medium term.
+Leader: Secretariat of Urban Planning ofMCSF.
+Partners: Secretariat of Social Development, Secretariat of Strategic Development and Communication, Secretariat of Public Works, Secretariat of Water Resources, Secretariat of Culture, Secretariat of Education, Secretariat General, School of Labor Office ofMCSF.
+INSPIRATION
+GENTILLY RESILIENCE DISTRICT
+New Orleans (USA)
+It is one of the most ambitious infrastructure projects since the construction of the drainage canals and pumping stations that, decades ago, turned below-sea level marshes into suburban neighborhoods.
+The Gentilly Resilience District is a combination of blue-green infrastructure efforts across Gentilly to reduce flood risk and land subsidence, and encourage neighborhood revitalization. It uses new approaches to water and land management that create even greater benefits, such as innovative flood risk reduction methods that aim to capture and keep storm water under control (unlike traditional methods that aim at keeping it behind dams) known as "blue and green corridors". Property owners can benefit from upcoming incentive programs, aimed at subsidizing improvements in energy-efficiency, storm water management and home elevation works.
+PLAN / FEATURED
+The city of Santa Fe is a labor, education and health services center, and also has a strategic location for the logistics and transport of goods within the region. Thousands of people and vehicles travel back and forth between Santa Fe and other cities on a daily basis. Due to the demographic growth of the neighboring cities and the increased number of road vehicles, some gaps in the mobility system have clearly emerged. Greater Santa Fe needs a mobility plan that takes into account the following variables: social and economic growth of the metropolitan area and its connection to the province of Entre Rios, vehicular traffic in main highways and city access roads, the location of key infrastructure works in the islands and swamp areas, transport systems and railway network in the region. It should also discourage the use of private cars and encourage the adoption of healthier habits such as cycling and walking, as well as the incorporation of technology to ease traffic flows and reduce pollution.
+Target: By 2019, Santa Fe will count on a comprehensive Mobility Plan for the Greater Santa Fe.
+Results Shortterm.
+Leader Undersecretariat of Mobility Planning of MCSF. Partners: Secretariat of Control and Secretariat of Strateg Development and Communication of MCSF; Public Service, Transport and Environment Committee of the HMC of Santa Fe, ECOM, Ministry of Infrastructure and Transport of the Province of Santa Fe, Ministry of Public Works of the Province of Santa Fe, National Ministry of the Interior, Public Works and Housing; National Ministry of Transport, AAuCar, ATAP; UNL and UTN - Santa Fe, Colectivo Santa Fe en Bici.
+INSTITUTION / FEATURED
+06. GREATER SANTA FE METROPOLITAN COORDINATING BUREAU (ECOM)
+Some of the challenges the city of Santa Fe has to face are originated beyond the city borders, for example, urban solid waste management, mobility, flood risk reduction and housing problems. In line with the city’s approach to governance, these challenges are addressed from a metropolitan viewpoint so as to cooperatively manage and promote sustainable and orderly territorial development, and an efficient public service network.
+Nowadays, both the national and provincial governments support the creation of metropolitan areas in the country.
+But sometimes these new institutions cannot work properly because it is difficult to define the management model, due to the large number of different interests and government levels involved in the definition process. In September 2016, the ECOM was created pursuant to the regulations set forth in Provincial Act N° 13 532. It has already received funding from the IDB to draft the metropolitan strategic guidelines. Targets: Set ECOM into operation with the budget allocation for this purpose, and create a qualified technical team to develop projects; hold 4 round tables between 2017 and 2018
+Status: New.
+Results Shortterm.
+Leader: Resilience Office.
+Partners: 22 Municipalities from Greater Santa Fe, Ministry of State Reform and Government of the Province of Santa Fe, Metropolitan Areas Development Program (DAMI) of the National Government, UNL.
+STUDY / SUPPORTING
+07. LARGE SOCIO-PRODUCTIVE INFRASTRUCTURE WORKS
+Santa Fe and its metropolitan area have identified a series of strategic works for development that have strong support from the different political and productive sectors, and civil society. A port, an airport, bridges and roads, industrial and technology parks, and logistics are all part of this collection of large-scale works that will have a huge impact on employment growth and economic development of the city and the region. In order to assess the feasibility of these projects, find funding sources and define the sequence of execution, Santa Fe must first systematize and record information about the condition of each project. This means working jointly with ECOM to produce a work plan that comprises a description of every project being publicly debated with the same level of analysis, including its socio-economic and environmental impact, a cost-benefit evaluation, and an analysis of its synergistic operation capacity.
+Target: In 2 years’ time, Santa Fe will have a roadmap for the development of large socio-productive infrastructure works
+Status: New.
+Results Shortterm.
+Leader Resilience Office.
+Partners: ECOM, Secretariat of Urban Planning of MCSF, Secretariat of Public Works of MCSF; Mesa de Entidades Productivas de Santa Fe (Santa Fe Productive Organization Association); UNL, UTN and UCSF universities; Ministry of Infrastructure and Transport of the Province of Santa Fe, National Ministry of the Interior, Public Works and Housing.
+FEATURED/SUPPORTING
+08. METROPOLITAN AIRPORT
+The cities of Santa Fe and Parana have two small, poorly performing airports. Both city mayors, with the support of the national government, have reached consensus to build a bigger metropolitan airport for both domestic and international flights. This strategic asset for the city and the region would not only boost the economy but also logistics and tourism. The plan is to build the airport at an equidistant point from the two cities, in the Parana River island and swamp area. Although the City Building Code prevents this area from being urbanized, it allows for the construction of logistics and infrastructure projects.
+The objective of this initiative is to promote and monitor the development of a preliminary design for the metropolitan airport, ensure that the project considers local interests, and incorporate a resilience focus in its design.
+Target: By 2018, Santa Fe will have created a bi-provincial and multi-sectoral committee, made up of stakeholders from the Santa Fe and Parana metropolitan area and officials and technical staff from the national government.
+Status: New.
+Results Shortterm.
+Leader: Secretariat of Public Works of MCSF.
+Partners: Secretariat of Urban Planning of MCSF; Resilience Office, ECOM; Ministry of Infrastructure and Transport of the Province of Santa Fe; Ministry of Works of the Province of Santa Fe, Ministry of Infrastructure, Planning and Services of the Province of Entre Rios; National Ministries of the Interior and Transport; Mesa de Entidades Productivas de Santa Fe (Santa Fe Productive Organization Association); UNL, UTN and UCSF universities.
+PLAN / SUPPORTING
+09. REGIONAL LOGISTICS
+Due to its strategic location, the city of Santa Fe is a natural logistics center for productive regions in Argentina and the Southern Cone. Agro-Industry and Bio-economy sectors are among those businesses with the highest growth potential. The national government launched the Belgrano Plan and made investments in infrastructure to reactivate the railway transport system in the center and north of the country. Both the city and the province of Santa Fe have also developed different logistics and transport projects, currently underway, such as the relocation of the port facilities to an area along the main channel of the river, or the multimodal logistics park called Inter-Puertos. This initiative aims at drafting a plan to define sector priorities, regulate the execution of the projects and analyze sources of investment and finance.
+Target: By 2022, Santa Fe will have developed a Regional Logistics Strategic Plan, jointly designed by the public and private sectors.
+Status: New.
+Results Medium term.
+Leader: Secretariat of Production of MCSF.
+Partners: Santa Fe Industry Association, AAuCar, ATAP, Mesa de Entidades Productivas; UTN and UNL universities, Santa Fe Port Administration Body, ECOM; Undersecretariat of Mobility Planning of MCSF; Resilience Office.
+"Santa Fe has an invaluable productive potential and the consolidation of the city as a solid and fully-functional logistics hub is a fundamental part of its development and that of its metropolitan area”.
+Javier Martin. Chair of the Santa Fe Industry Association
+STUDY / SUPPORTING
+10.	METROPOLITAN LAND USE POLICY
+The city of Santa Fe has a new Urban Planning Code, approved in 2010, which provides for an orderly and planned use of the territory. However, many of the urban challenges faced by Santa Fe transcend the city borders. For example, many young people who study and work in Santa Fe had to move to smaller neighboring cities -San Jose del Rincon, Arroyo Leyes and Recreo-, due to Santa Fe city’s soaring real estate prices. This translates into an increased demand of housing and public services, and poses some environmental risks related to solid waste and wastewater management. Most of the towns and cities located in Santa Fe metropolitan area either do not have an urban planning code yet or are still in the process of drafting one; therefore, it is essential to work together and reach a consensus on criteria regarding the orderly use of the territory shared by different cities. Target: In 2026, local governments in Greater Santa Fe will have established a common land use code for the metropolitan area.
+Status: New. Results Longterm.
+Leader: ECOM.
+Partners: 22 Municipalities from Greater Santa Fe; Secretariat of Urban Planning of MCSF, Ministry of State Reform and Government of the Province of Santa Fe, DAMI.
+STUDY / FEATURED
+11.	GREEN AND CIRCULAR ECONOMY
+Urban solid waste management is one of the most serious challenges faced by the city of Santa Fe. The current landfill site opened in 2010 and has an estimated lifespan of 5 to 7 years. The city allocates a large amount of human and monetary resources to urban solid waste (USW) collection and disposal, and garbage dump control activities. The city has launched a waste segregation plan and different composting and recycling activities, with different levels of compliance and participation according to the neighborhood. The work of informal waste collectors does not only pose a risk to the health of the 600 families that make a living out of waste picking, but also to the environment and the community at large.
+The city wants to make a qualitative leap forward in the field of urban waste management by implementing Circular Green Economy models, not only to find a solution to social and environmental problems but also to foster a model of economic development, social inclusion and community engagement.
+Target: In 2018, the city will have a Green and Circular Economy roadmap and, especially an integrated USW management plan.
+Status: New.
+Results Shortterm.
+Leader: Resilience Office.
+Partners: Undersecretariat of Environment of MCSF, Secretariats of Production; Communication and Strategic Development of MCSF; Cooperation, Investment and Foreign Trade Agency of MCSF; Schools of Labor Office of MCSF; Secretariat of MCSF; UNL; Federation de Cooperativas de Trabajo Santa Fe La Cordial Limitada (Cooperatives Federation).
+PROJECT / SUPPORTING
+12.	PILOT ZONE FOR A NEW USW INTEGRATED MANAGEMENT
+Waste generation and disposal have increased lately in Santa Fe and its surrounding areas. The measures taken to improve waste segregation, composting and recycling practices did not have the expected positive impact. Besides, the lack of effective mechanisms to control the waste collection system results in its poor performance.
+Landfill sites, which have an estimated lifespan of 5 to 7 years, have become old-fashioned and obsolete options. Although studies have been conducted to see if said lifespan can be extended, the city needs a wider range of options to find a definitive solution to this problem.
+Santa Fe wants to establish a pilot zone to assess the impact of measures aimed at reducing waste generation and at improving waste sorting, such as: analysis and assessment of waste segregation practices, redefinition of sorting methods, definition of “benchmarks” and performance indicators, door-to-door awareness-raising campaigns, improvement and control of the waste collection service, and analysis of results. Target: In 2018, the city will count on an efficient method to reduce USW generation.
+Status: New.
+Results Shortterm.
+Leader: Undersecretariat of the Environment of MCSF. Partners: Resilience Office; Secretariat of Production of MCSF, School of Labor Office of MCSF; Secretariat of Communication and Strategic Development of MCSF, UNL, Cooperativa Recicladora Santa Fe (Recycling Cooperative).
+PROGRAM / SUPPORTING
+13.	INFORMAL WASTE COLLECTORS INCLUSION PROGRAM
+In the city of Santa Fe, there are approximately 600 families that make a living out of garbage and waste collection. They segregate and classify garbage in precarious, unsafe and unhealthy conditions; they also accumulate rubbish in mini garbage dumps and set large amounts of garbage on fire. The situation gets even worse because there are child scavengers. Sometimes the garbage ends up clogging the drainage system, thus increasing the risk of flooding.
+Santa Fe has launched a program that aims at improving scavengers’ work conditions and at offering them a decent and sustainable alternative to this activity. The situation of each family is assessed; and after a diagnosis is reached, a multidisciplinary work team proposes healthier work alternatives either related to the garbage or any other social economy sector. Although it has proved to be successful so far, this program needs to be consolidated and reinforced. Target: By 2022, the number of informal waste collectors in the city will be reduced by 50%, thanks to this inclusive process of opportunity generation.
+Status: Currently underway. Results Medium term.
+Leader School of Labor Bureau of MCSF.
+Partners: Undersecretariat of Environment, Santa Fe Habitat Agency and Secretariat of Communication and Strategic Development of MCSF, UNL and Cooperativa Recicladora Santa Fe (Recycling Cooperative).
+Santa Fe aspires to become a land of opportunity, offering its residents the tools and resources they need to grow both personally and collectively in a safe, inclusive and equitable environment.
+The city’s poverty rate is similar to the national average, and inequity becomes more evident in those neighborhoods with higher rates of unemployment or unregistered employment, more problems with housing or basic public services, and greater risk of flooding. These challenges must be tackled in a comprehensive manner; and vulnerable populations, especially younger residents, should be given more opportunities to grow.
+In order to foster equitable growth and overcome social exclusion, the city must boost those economic sectors that have a higher development potential to grow and create jobs.
+One of the most serious stresses our city faces is access to safe and affordable housing, followed by a housing deficit and squatter settlements in low-lying areas at greater risk of flooding. Santa Fe must develop community-building projects -not only housing solutions- with an integrated approach to physical and social interventions, in order to build healthy and inclusive neighborhoods.
+Finally, it is imperative to optimize interventions of the State to be more articulated, efficient and integrated in the Santa Fe territory. Santa Fe has to adopt a new public policy management approach in order to achieve better results in terms of social inclusion and integration.
+PROJECT/FEATURED
+According to the Permanent Household Survey (PHS), around 18,000 Santafesinians aged between 18 and 25 come from low social-class backgrounds in terms of average income per capita. These people are excluded from the socio-educational and socio-productive fabric, and have limited access to social safety nets. Therefore, they find it very difficult to find a job and are thus more likely to fall into the trap of illegal economic activities.
+The Santa Fe Government has launched an ambitious program called Schools of Labor, which offers highly vulnerable young people assistance to finish school, find a job, buy their first home and have access to social safety nets. The tools offered by these schools are grouped into five categories: education; vocational training and employment mediation, self-employment and entrepreneurship; first-time home acquisition; access to culture, sports and health activities; and promotion of rights to improve coexistence.
+So far this program has proved to be successful - it has been implemented in one neighborhood and two new communities, and the first building of its own is currently under construction. The city wants to consolidate and reinforce this experience so as to reach out and help more people.
+Target: By 2025, Schools of Labor will have offered opportunities to half of their potential beneficiaries, and will have built two new, top-quality buildings of their own located in Jardin Botanico and La Tablada, favoring two districts that feature the largest number of young people with inclusion problems.
+Status: Currently underway. Results: Long term.
+Leader: Schools of Labor Office ofMCSF.
+Partners: Undersecretariat of Social Action ofMCSF, Social Observatory of UNL, Secretariat of Housing and Habitat of the National Ministry of the Interior, Public Works and Housing, Asociacion Civil Rayo de Luz.
+PLAN / SUPPORTING
+15. YOUTH POLICIES
+The Municipality has developed various activities and programs for the youth of the city. It is necessary to move towards a comprehensive plan that orders and integrates these actions, involving young people in the design of activities as responsible actors and beneficiaries of the growth of the city in which they live.
+Therefore, this initiative proposes the creation of a Municipal Youth Plan that integrates all educational activities, cultural and athletic activities, job training and assistance, access to technology, mobility and the environment in order to improve the impact of these policies and generate opportunities for different groups of young people.
+The Plan will provide tools for the autonomous and sustainable development of young people and assistance in building their identity, seeking to activate participation and commitment to the city, as well as to modify risk behaviours and develop a culture of peace. It will have differentiated mechanisms that recognize diverse realities and problems, as well as personalized, integral and multidisciplinary accompaniment tools. The Plan should contemplate specific actions for the inclusion of young people in situations of extreme vulnerability, with problems of addiction and / or in conflict with criminal law.
+Target: By 2019, Santa Fe will have developed the Municipal Youth Plan, in collaboration with the city’s youth.
+Status: New. Results: Shortterm.
+Leader: Schools of Labor Office ofMCSF.
+Partners: Secretariat of Social Development, Secretariat of Health, Secretariat of Culture and Undersecretariat of Sports ofMCSF, Social Observatory of UNL.
+PROGRAM / FEATURED
+For over 7 years now, Santa Fe Municipality has been working hard -with the support of the provincial and national governments- to move families settled in low-lying areas at greater risk of flooding to safer areas with access to basic public services. On many occasions, these measures were taken within the framework of Comprehensive Urban Programs (CUP), in an attempt to adopt a comprehensive approach to habitat improvement.
+In 2016, for the first time in 8 years, the city received funding by the national government to build 280 houses. This plan, currently underway in the Nueva Esperanza Este, Vuelta del Paraguayo and Jesuitas neighborhoods, will be the first large-scale response to this kind of problem since the projects implemented after the Salado River overflow in 2003. The IIED gathered input from the community and stakeholders, identified weaknesses and strengths of the resettlement process, and underlined the need to improve community social support services. Thus, this initiative aims to conduct a pilot plan in one of the aforementioned neighborhoods to improve social interventions through the adoption of a resilient approach. Targets:
+•	During 2017 and 2018, Santa Fe will devise tools to foster further engagement of families living in Vuelta del Paraguayo with the resettlement and neighborhood improvement process;
+•	In 2020, the city will have established a social management methodology that will integrate the different state levels, to offer families social safety services and to drive community development.
+Status: Currently underway. Results: Medium term.
+Leader: Santa Fe Habitat Agency of MCSF.
+Partners: Secretariat of Social Development, Secretariat of Health and Undersecretariat of Social Action of MCSF, Social Innovation Cabinet, Movimiento Los Sin Techo.
+INSPIRATION
+PILOT PROJECT FOR PREVENTIVE RESETTLEMENT IN LAND WITH UNMITIGABLE RISK
+Medellin (Colombia)
+This initiative aims to develop solutions for resettling families from areas with unmitigable risk in Medellin to more sustainable areas.
+This initiative aims to progressively reduce threats, improve living conditions, and intervene in a priority region of Medellin’s Territory Management Plan, by developing a comprehensive methodology based on criteria such as residents’ protection and sustainability.
+Photo: Oscar Cardona Alvarez, Medellin Resilience Strategy.
+INSTITUTION / SUPPORTING
+17.	SOCIAL INNOVATION CABINET
+Uncoordinated intervention in Santa Fe by different State agencies has taken its toll. There are a huge number of programs, plans and actions to deal with social stresses, which separately have proved to be insufficient and hardly ever successful in improving the situations of vulnerable communities.
+This initiative aims to implement a pilot project to coordinate the operation of different municipal agencies and bureaus in a specific neighborhood. A neighborhood, where a CUP (Comprehensive Urban Program) and a Resettlement Program of families living in water-risk areas are currently underway, will be selected and social habitat management practices will be introduced into these projects.
+A work space and methodology will be created that facilitate coordinated intervention in the territory in order to prevent unnecessary duplication of resources and action overlapping, and to optimize the use of existing information and the assessment of policy outcomes. Participatory activities are envisaged to foster community engagement in the process. Target: In 2018, the Municipality will hold at least 10 meetings with different municipal agencies and bureaus in order to devise a specific intervention plan and coordinate its implementation. Indicators will also be defined to assess the results.
+Status: New. Results: Shortterm.
+Leader: Resilience Office.
+Partners: Santa Fe Habitat Agency, Secretariat of Social Development, Secretariat of Health, Secretariat of Education, Secretariat of Culture, Secretariat of Strategic Development and Communication; Undersecretariat of Social Action, Undersecretariat of Environment, Undersecretariat of Sports and Schools of Labor Office of MCSF.
+INSTITUTION / SUPPORTING
+18.	SOCIAL REAL ESTATE AGENCY
+Affordable housing problems affect both low-income and middle-income groupsin the city. When renting a property, there may be some barriers such as get a legal demonstrable salary or find a guarantor. As a consequence of this, there is an illegal real estate market, where rents are higher and tenants have no rights or protection whatsoever.
+This initiative aims to tackle this problem by offering protection and legal counsel to families in this predicament. It will offer other options too, namely: new home equity loans, loans to buy construction materials, training regarding household finances and economics, DIY construction, and new building technologies.
+Target: In 4 years, the first social real estate office will be opened at the Citizens’ Service Centre in the Northern District.
+Status: New.
+Results: Medium term.
+Leader: Santa Fe Habitat Agency of MCSF.
+Partners: Resilience Office, Northern District Coordination Bureau of MCSF, Movimiento Los Sin Techo, NGO Los del Camino, Law Firms - School of Law and Social Sciences-UNL.
+PROGRAM / FEATURED
+19.	COMPREHENSIVE URBAN PROGRAMS (CUP)
+CUPs comprise a set of comprehensive interventions in specific city areas. Inspired by the Medellin (Colombia) experience, these programs advance infrastructure efforts (expansion of services network, housing improvement, public space revitalization), stronger institutional presence (diverse tools contributed by municipal and other agencies at different state levels), social policies aimed at neighborhood integration, opportunity creation and citizen engagement.
+In 2012, Santa Fe successfully implemented these programs in three areas (Barranquitas, Noreste and Santa Rosa de Lima), thus increasing people’s access to basic services and reducing squatter settlements. In 2016, the city extended this program to 9 more neighborhoods thanks to the National Habitat Plan, a plan with similar guidelines launched by the National Government to fund comprehensive neighborhood improvement initiatives. Target: By 2022, Santa Fe will have improved people’s access to basic services networks in all the neighborhoods located in the southwest and west districts, and will implement two CUPs in the northwest and coastal districts. The city will jointly work with the Social Innovation Cabinet and the Social Real Estate Agency, which are regarded as auxiliary management tools.
+Status: Currently underway. Results: Medium term.
+Leader: Government of MCSF.
+Partners: Santa Fe Habitat Agency of MCSF, Resilience Office, Secretariats of Social Development, Urban Planning, Public Works, Water Resources, and Health of MCSF; Risk Management Office of MCSF.
+INSTITUTION / SPECIFIC
+20.	PRIMARY SOCIAL SUPPORT TEAMS
+In Santa Fe, some communities are exposed to social vulnerability, extreme poverty and conditions of marginality. To meet their requirements, specific understanding and skills must be developed, which neither the traditional State structure nor existing local intermediary institutions currently have.
+Thus, the city wants to create teams to address basic social needs. These teams will be multidisciplinary and will help these communities deal with their problems and seize opportunities to find a way out of marginality. These teams will also offer prompt and effective responses and support in emergencies. This initiative should be jointly implemented with the Social Innovation Cabinet in order to optimize the use of existing resources.
+In 4 years, Santa Fe will have three teams made up of professionals and specialists in different areas, such as medical doctors, psychologists, occupational therapists and social workers.
+Status: New.
+Results: Medium term.
+Leader: Undersecretariat of Social Support.
+Partners: Movimiento Los SinTecho, Caritas Argentina, Red Cross- Santa Fe Branch.
+PROJECT / SUPPORTING
+Enhanced urban mobility, accessibility and connectivity have a positive impact on citizens’ lives and result in safer and more integrated communities. This initiative aims to identify corridors between neighborhoods and introduce improvements to ease neighbors’ access and facilitate interneighborhood communication.
+The Municipality has been working for some time now on its urban corridors program, which cleans up abandoned railways and turns them into new, green public spaces. Other supporting measures may include identifying safe places (stops/shelters) on public transport routes. For this initiative, the city will jointly work with the Security Observatory and the CUPs, two robust sources of information.
+Target: In 5 years, existing streets will be modified and new pathways will be built to create 10 kilometers of safe corridors to be used by pedestrians and cyclists.
+Status: New.
+Results: Medium term.
+Leader: Secretariat of Urban Planning of MCSF. Partners: District Centers Coordination Bureau and Undersecretariat of City Safety and Prevention of MCSF.
+"The needs of the excluded, of the poorest among the poor, must be urgently met; and special attention should be paid to their emergencies so that they may live and grow in a healthier environment. Without a healthy habitat, no one can heal and nothing can be achieved". Jose Luis Ambrosino. Representative of Los Sin Techo.
+PROJECT/SPECIFIC
+22. EXPANSION OF THE SANITARY SEWER NETWORK
+The sanitary sewer network currently serves 65% of the households in Santa Fe. In line with the Storm Drainage Master Plan, the local government has launched a Sanitary Sewer Network Expansion Plan to serve 150,000 more people. These are key projects that will improve the quality of life of the most vulnerable communities and minimize sanitary risk factors, but their execution is long overdue. The plan envisions a system of shared and charitable financing.
+The current national administration has dedicated funds to expand this service coverage. For this reason, this initiative aims to implement the plan’s projects and search for sources of financing.
+Target: In 10 years, the sanitary sewer network in Santa Fe will serve 100% of the households across District 1 to District 7. Given its specific topographical and hydrogeological features, District 8, called La Costa, will require special planning.
+Status: Currently underway. Results: Longterm.
+Leader: Secretariat of Water Resources of MCSF.
+Partners: Resilience Office, National Ministry of the Interior, Public Works and Housing; ASSA, INA, Ministry of Infrastructure and Works of the Province of Santa Fe, Ministry of Environment of the Province of Santa Fe.
+PLAN / SPECIFIC
+23. SANTA FE ONLINE
+ICTs are key to city development. Thus, Santa Fe has created a multi-sectoral committee to set up a plan to foster this sector’s development. However, the city lacks efficient communications infrastructure, as well as reliable and complete information about the availability and quality of Internet and mobile telephone services in Santa Fe.
+This initiative aims to improve connectivity and strengthen the ICT sector, by creating a comprehensive plan to ensure residents’ access to efficient Internet and mobile telephone services. It also aims to promote training activities and knowledge-driven economic ventures, and to promote the use of ICTs to generate and send useful city management information.
+Target: In 2019, Santa Fe will have an ICTs and connectivity plan including: the assessment of the city’s communication infrastructure performance, the definition of an investment plan, and the strengthening of the multi-sectoral committee in charge of the ICT Cluster Development Plan to take advantage of the hi K (iii mil) Plan devised by the national government to boost the ICT sector.
+Status: New.
+Results: Medium term.
+Leader: MCSF.
+Partners: Cluster TIC, Ministry of Science, Productive Innovation and Technology of the Province of Santa Fe, UNL, UTN, PTLC, International Cooperation, Investment and Foreign Trade Agency of MCSF.
+PLAN / FEATURE
+Belgrano Railway Station is an emblematic building for Santafesinians. In 2008, after 20 years of neglect, and thanks to municipal, provincial and civil investments, this building was renovated by the Municipality; and now Belgrano station has become an important Fair, Exhibition and Convention Center.
+At present, the city of Santa Fe is interested in tourism events and aims to host both national and international events. Furthermore, the city is now analyzing what to do with the land surrounding the station, given the national government’s decision to recover neglected state-owned land. This initiative aims to integrate this large area into the city’s urban grid by developing housing projects, green spaces, bicycle lanes and businesses. It also aims to find funding sources for improvement projects, and to enlarge the Convention Center’s area.
+In 2019, Santa Fe will have a Master Plan to further improve the historic Belgrano Station building and its
+Status: New.
+Results: Medium term.
+Leader: Secretariat of Urban Planning of MCSF.
+Partners: Resilience Office, SAFETUR, Secretariat of Strategic Development and Communication, Secretariat of Production, and Habitat Agency of MCSF.
+STUDY / SPECIFIC
+25.	SPECIALIZED TOURISM MARKET
+The nature tourism market has a high potential for development, especially in the city’s coastal district; and can boost other important tourist areas in the region such as the gastronomical sector (fish, beer). The UNL (Universidad del Litoral) has launched the “Insular Micro-region”, a sustainable development plan to revitalize natural and cultural heritage through projects that create economic and employment opportunities while safeguarding the flood protection systems.
+The city also has emblematic historic buildings, and the Museum and Library- Park of the National Constitution are currently being built, so visitors have many educational and historical tourism options.
+In order to promote tourism, to boost local economy and to create new jobs, investments in infrastructure, services and staff-training activities must be made.
+Target: In 2 years, Santa Fe will have a roadmap to identify strategic projects and investments required to boost new tourist activities related to nature, historical and educational
+Status: Currently underway. Results: Shortterm.
+Leader: Undersecretariat of Tourism of MCSF.
+Partners: SaFeTur, School of Architecture, Design and Urbanism- UNL, San Jose del Rincon Municipality, Arroyo Leyes Municipality.
+PLAN / SPECIFIC
+26.	HEALTHCARE HUB
+Santa Fe is an important healthcare center for the littoral region in Argentina. There are 177 medical facilities, a total of 2,400 beds, and the sector employs 20,000 people. The School of Medicine opened in 2010 and offers a highly reputable program.
+This initiative aims to strengthen the healthcare sector, not only as a social service but also as a commercial activity. Thus, actors and capacities will be reassessed, to identify geographic areas with varying levels of health coverage in the region. Some other factors will be also identified, namely: health support services, health-related needs of the people who live in the interior of the province and improvements to public and private healthcare center standards in order to establish an infrastructure project portfolio.
+Target: In 4 years, Santa Fe will have a plan to turn the city into a healthcare hub for the littoral region.
+Status: New. Results: Longterm.
+Leader: Secretariat of Production of MCSF.
+Partners: Undersecretariat of Tourism of MCSF; Safetur; UNL; Private Hospital, Clinics and Healthcare Centers’ Associations - Santa Fe.
+PROGRAM / SPECIFIC
+27.	PERI-URBAN VEGETABLE FARMS
+In the last decades, the amount of land in the city and metropolitan area used to grow fruits and vegetables has decreased due to, among other causes, the construction boom and the pressure exerted by the real estate sector. Peri-urban vegetable and fruit farms are not just a source of employment for the community; they can also improve food security in the region and reduce the impact of climate change and water-related risks. Therefore, it is very important that Santa Fe and its metropolitan area support public policies aimed at strengthening and incentivizing agro-ecological urban agriculture, in order to achieve orderly planning, improve productive competitiveness and mitigate environmental pollution.
+Target: In 4 years, the ECOM will have drafted guidelines to protect peri-urban farms, mainly horticulture farms, and created incentives to boost this economy sector.
+Status: New.
+Results: Medium term.
+Leader: Secretariat of Production of MCSF.
+Partners: National Peri-urban Agriculture Program; National Institute of Agricultural Technology (INTA), Market of Fruit and Vegetable Producers and Providers of Santa Fe, Small Farm Owners’ Association of Santa Fe, Granja Agroecologica La Verdecita (Agro-ecological farm).
+INSPIRATION
+PROMOTING URBAN AGRICULTURE
+Semarang (Indonesia)
+This initiative aims to provide the community with training on urban agriculture so that they can produce top quality organic food. The city wants to turn vacant land into urban agriculture areas and resort to available simple, user-friendly technology. It also plans to work in close collaboration with shops and markets that can distribute and sell these products.
+Not only does urban agriculture have a positive impact on the environment due to the increased number of urban green spaces, but it is also an opportunity to boost the local economy.
+P3. FOSTER CIVIC ENGAGEMENT
+82
+Santa Fe wants to strengthen the community’s sense of belonging and encourage citizens to engage with their environment, which has been seriously affected by widespread practices that do not comply with city rules and show great disregard for public community assets. The rate of violence in the city is far higher than the national average; thus in order to deter illegal activities and informal behavior, coexistence principles and a culture of peace must be embraced.
+Concepts such as looking after public spaces, understanding risk, and showing respect for life, animals and the environment are key aspects of building an inclusive community. Those same concepts were mentioned repeatedly by stakeholders throughout the consultation process prior to strategy development.
+Citizen engagement and access to information are essential to healthy coexistence and the consolidation of democracy. The development of local leadership and active community participation is also necessary to co-design solutions to urban problems; in short, the goal is to advocate for people’s right to the city.
+Intermediary institutions are key allies in articulating the government-community relationship. Santa Fe has significant institutional and social capacity for generating new and innovative ideas; this capacity should be strengthened through new communication channels in order to propel the growth of the city and the consolidation of its identity. To become a more resilient city, Santa Fe must once again embrace key values such as education and hard work, and must recover its capacity to engage in new projects and overcome obstacles, two typical Santafesinian features. It must also support the acquisition of knowledge and new technologies to build resilience.
+PROGRAM / FEATURE
+28.	SANTA FE NEARBY PROGRAM
+The city is a dynamic ecosystem where different actors -civil society, academia, the private sector and the government-interact and relate to each other based on their needs and interests. The City Government must further promote collaborative work and facilitate the exchange of knowledge to improve public policies.
+This initiative aims to strengthen these interactions to capitalize on the capacities the city already has and to encourage the co-creation of solutions to different challenges. The City Hall will act as a link between the parties and carry out the following actions: first, it will create a database with updated information about knowledge and projects mastered by different sectors; then, it will analyze other experiences currently underway such as the Centre for the Transfer of Research Results - UNL university, the International Office of the UTN university, the Capital Forum for Innovation, and the Social Organizations Forum, among others; and finally, it will organize meetings to exchange and co-develop projects for the city.
+The city will also enter into agreements with different universities to conduct research on priority themes for the Resilience Strategy. It will also build links between production of knowledge (science), production of goods (industry), entrepreneurs (ideas) and investors (funding). Target: In 2018, Santa Fe will have created a list of stakeholders, projects and potential liaisons for urban development, and will hold at least four networking events among the aforementioned sectors.
+Status: New. Results: Shortterm.
+Leader: Resilience Office.
+Partners: UNL, UTN, Mesa de Entidades Productivas (Santa Fe Productive Organization Association).
+PROGRAM / SUPPORTING
+29.	STRATEGIC LIAISON FOR UNIVERSITY OUTREACH PROJECTS
+Outreach activities engage academia and other community actors in permanent dialogue in order to find solutions to common problems. Outreach projects articulate different research, training and awareness-raising activities, which are very important to the city government to the extent that they tackle city problems.
+The city will enter into a cooperation agreement with UNL to co-define lines of action in the territory and coordinate projects, to achieve better results and optimize both organizations’ resources.
+Target: By 2018, MCSF will have entered into an agreement with UNL, and outreach projects will delve into different challenges identified during the resilience strategy development process.
+Status: New. Results: Shortterm.
+Leader: Outreach Projects Office - UNL.
+Partners: Resilience Office; Secretariats of Social Development, Education and Health of MCSF, Schools of Labor Office and Risk Management Office of MCSF.
+PROGRAM / SPECIFIC
+30. VOLUNTEER PROGRAM
+This initiative aims to promote volunteer work among young people to foster engagement in problem solving actions, community integration and respect for coexistence rules. This program also aims to strengthen civil society organizations that have volunteers, and to link solidarity practices with resilience initiatives.
+There is a network of humanitarian aid institutions in the city that play a very active role in emergencies and humanitarian crises. Two of the most outstanding are the Red Cross and Caritas, which are in charge of providing first aid and primary care, and organizing clothes and food collections, respectively.
+In particular, this program aims to build on people’s capacities to organize different activities, for example: in the case of young people, awareness-raising campaigns on waste sorting; in the case of professionals, financial and legal counsel for low-income families; and in the case of elderly adults, experience-sharing activities with children and adolescents from vulnerable neighborhoods.
+Target: Between 2018 and 2020, Santa Fe will have launched volunteer-led campaigns in the three areas mentioned above.
+P3. FOSTER CIVIC ENGAGEMENT gjOSFC) RESILIENT
+Status: New.
+Results: Medium term.
+Leader: Secretariat General of MCSF.
+Partners: The Red Cross- Santa Fe Branch, Caritas Social Action Network-Santa Fe Branch, NGO Los del Camino, Movimiento Los Sin Techo, Outreach Project Office - UNL.
+85
+PROGRAM / FEATURED
+The city of Santa Fe has the potential to develop touristic, creative, gastronomic and technological ventures. These are significant sectors because they create jobs or self-employment opportunities and have high prospects of success.
+This initiative aims to strengthen existing programs and launch new ones, within the framework of the recently passed Entrepreneurship Act. Since 2012, there has been a Center for Social Economy Entrepreneurs in Santa Fe that works jointly with the UNL and the provincial government.
+In 2016, different clusters began to consolidate, namely the beer production, ICT and design clusters.
+Through this initiative, the city wants to strengthen existing actions and start new ones, taking advantage of a national entrepreneurship act recently passed. Thus, different social economy ventures will be surveyed, many of which are funded by the national government, to explore consolidation strategies. Strategic development plans for each sector will be jointly drafted with potential entrepreneurs, academia, the private sector and the State. Finally, training activities and events to promote this entrepreneurial spirit will be organized. Support will be granted to those interested in starting up companies, launching business plans and incubating projects.
+Target: In 5 years, Santa Fe will have strengthened the Center for Entrepreneurs and will have more entrepreneurs and projects. It will also have strategic plans, training activities and special events aimed at the ICT and beer sectors.
+Status: Currently underway. Results: Medium term.
+Leader: MCSF.
+Partners: Center for Social Economy Entrepreneurs, Cluster TIC, Polo Cervecero, Polo de Diseno, PTLC, Industrial Parks, Incubadora Expresiva (incubator), UNL.
+INSPIRATION
+BARCELONA ACTIVA
+Barcelona (Spain)
+This organization has been working hard for 30 years to promote the economic growth and development of Barcelona and improve its residents’ quality of life, by fostering employment and entrepreneurship and offering companies support through the lens of plural, social and solidarity economy.
+Barcelona Activa is a strong entrepreneurship advocate that offers support to those who want to set up a sustainable company, through the organization of training activities and assistance in the search for sources of finance and other resources. It also counts on incubators where start ups can develop and consolidate while sharing a space with other companies.
+Photo: https://www.facebook.com/barcelonactiva/
+INSTITUTION / SUPPORTING
+The emblematic building of the so-called Mercado Progreso was built in 1925 and was derelict for many years. In 2010, the city government decided to revitalize the building, starting with its facade, and launched a program to do so. Every weekend, the market hosts different activities: a fair called “Disena Santa Fe”, live music shows, beer festivals and other cultural events. Artists and local entrepreneurs are truly fond of Mercado Progreso, which is regarded as an ideal place for the promotion of creative industries.
+This initiative will launch a public-private partnership to restore the rest of the building and set up creative ventures.
+For these creative ventures, this initiative will capitalize on the findings of the European Commission’s project called “Strengthening Design MSMEs in the city of Santa Fe and the Region”, within the framework of the Al-Invest 5.0 Program. Some of the actions to be implemented include: searching for funding sources for the construction work, the selection of creative entrepreneurial ventures to be allotted a space in the building, and the creation of a management entity, among others.
+Target: By 2026, Mercado Progreso will be fully restored and spaces will have been allotted to entrepreneurs.
+Status: New. Results: Long term.
+Leader: Mercado Norte ofMCSF.
+Partners: Secretariats of Culture and Production; Cooperation, Investment and Foreign Trade Agency ofMCSF.
+INSPIRATION
+SUPPORT AND ENCOURAGE THE CREATION OF SMALL AND MEDIUM-SIZE ENTERPRISES IN EXISTING AND POTENTIAL INDUSTRY SECTORS
+Byblos (Lebanon)
+Byblos has a long history of economic activity linked to traditional crafts, agriculture/horticulture and fishing activities. It also has a unique architectural heritage, which constitutes a special setting for the mass media, digital media and movie-making industries. Thus, the city promotes the creation of clusters to foster the development of these industries and make the most out of existing networks and partnerships.
+The city aims to offer targeted industries some logistics and communication services, and also build a local knowledge-and-skill sector to foster research and innovation linked to the said targeted industries. Byblos also plans to create incubators for the development of new projects in the fields of creativity and health care, two of the city’s strengths.
+INSPIRATION
+CITYLABOIO PLATAFORM
+Rotterdam (The Netherlands)
+As part of its Resilience Strategy, the city of Rotterdam has enhanced the development of online platforms to find inspiration and information; such is the case of the web portal www.citylaboio.nl/. City residents can share innovative ideas and plans for the city, and find partners and access to funding options to make their ideas come true. CityLaboio, a lab to imagine the city of tomorrow, support bottom-up community-led initiatives, build social cohesion, embed resilience thinking and support knowledge-sharing and networking.
+PROJECT/FEATURED
+33.	IDEA GENERATOR
+The Resilience Strategy development process clearly showed that Santa Fe residents are bursting with great ideas to solve the challenges their city faces. However, the activities during the consultation process were organized for people to participate in person, and the number of attendees was relatively low compared to the city’s population.
+Thus, Santa Fe wants to create a modern virtual communication channel, in line with the technological possibilities of the 21st century, to ensure massive participation and receive more ideas to tackle current and future challenges. This marks a new way of institutionalizing citizens’ participation in the public policy making process.
+To achieve this, a project will be developed
+in close collaboration with the ICT cluster, made up of some IT and communication companies that actively work with the city government. Work with neighbors’ associations and NGOs will be completed, and pilot plans to co-create projects will be implemented.
+Target: In 2 years, Santa Fe will have established an online platform where the city government will share challenges and projects, and citizens will be able to share ideas and even partner with the city to analyze and tackle stresses.
+Status: New. Results: Shortterm.
+Leader: Secretariat of Communication and Strategic Development of MCSF.
+Partners: ICT Cluster, UTN, UNL, Undersecretariat of Administrative Upgrade and Reform.
+PROJECT / SUPPORTING
+34.	THESILIENCE
+There are around 50,000 graduate and postgraduate students in the 3 universities in the city. Every year students, tutors and research centers pick subject matters to develop their final theses. On many occasions, the selected topic is hardly related to the challenges the city faces; on others, the projects remain in the academic environment and do not reach out to technical departments within State agencies. The Government of the city of Santa Fe aims to reverse this situation, and thus proposes that students from different university programs write their final thesis or project about challenges the city and its metropolitan area face and their possible solutions.
+To this end, every year the City Hall, together with local universities, will invite applications from students to present research projects on urban resilience. Finally, a ceremony will be held to announce the winning project, present posters and grant its authors an award.
+Target: In 2019, Santa Fe will have 20 final theses about city resilience written by students.
+Status: New. Results: Shortterm.
+Leader: Resilience Office.
+Partners: UNL, UTN, UCSF, CONICET, Consultative Council on Resilience, National Secretariat of Science and Technology, Ministry of Science, Productive Innovation and Technology of the Province of Santa Fe.
+PROGRAM / SPECIFIC
+35.	PROGRAM AGAINST
+GENDER-BASED VIOLENCE
+Official data on gender-based violence in Argentina is incipient, and the data available on femicides and other types of family violence is specifically produced and collected by public organizations, NGOs or legislators.
+The Action Plan developed by the Women and Sexual Diversity Department is proof that the City Government has the political will and desire to advocate for gender equality as a State policy and to protect every person’s right to a life free of violence.
+This initiative aims to enhance violence prevention and deliver care services for victims, from a collaborative and multidisciplinary viewpoint. Thus, the city will establish gender-based violence prevention networks, safe houses for the protection of women who are victims of domestic abuse, a health protection system with a gender-based approach, and guidelines to detect and tackle gender-based violence situations in Santa Fe City Hall.
+Target: By 2019, Santa Fe will possess systematized information to assess the impact of existing measures and the results of domestic abuse and gender-based violence prevention policies.
+Status: Currently underway. Results: Shortterm.
+Leader: Undersecretariat of Social Action of MCSF. Partners: Honorable City Council, Multisectorial de Mujeres, Secretariat of Health and Undersecretariat of City Safety and Prevention of the MCSF, Programa Genero, Sociedad y Universidad-UNL.
+PROGRAM / SPECIFIC
+36.	REGULARIZATION OF BUSINESS ACTIVITY
+In 2008, a program was launched to regularize property ownership status, so that over 15,000 socially vulnerable families living in areas at greater risk of flooding could improve their quality of life and acquire ownership of land and property. This initiative had a positive impact, and has been recognized by the CIPPEC (Center for the Implementation of Public Policies on Equity and Growth) as an innovative measure to increase gender equality and equity. Thus, fully convinced that “formality and legality promote an environment of healthy coexistence”, this initiative will launch a program that aims to regularize business activities in neighborhoods. This initiative will comprise vocational training activities, legal and financial advice, information about private construction and formal employment, and incentives to encourage small businesses’ compliance with the program. In addition, advice on building codes and formal employment will be given. This initiative will capitalize on the experience of other programs in strengthening local businesses such as the Program for the Support of Street Markets, and on the measures implemented to support that sector, which is a significant source of employment for the city. Special attention will be paid to popular markets and fairs so as to organize and order their activity and generate sustainable alternatives for vendors. Target: By 2020, Santa Fe will have developed the program
+Status: New.
+Results: Medium term.
+Leader: Undersecretariat of Trade and Commerce of MCSF. Partners: Secretariat of Social Development of MCSF, Centro Comercial de Santa Fe (Business Center), Law Firms - School of Law and Social Sciences - UNL, District Centers Coordination Bureau of MCSF, School of Economics - UNL.
+PROJECT/SPECIFIC
+Santa Fe is proud to be the birthplace of the National Constitution, the Magna Carta that contains the sets of political principles by which our modern Argentina is governed was signed in our city. Thus, the City Government, inspired by the Medellin experience, started to build a Library-Park. It is a public space devoted to education and culture, a place for gathering to reflect on our national history; a place that reaffirms the values and rights stipulated in our Constitution and strengthens our local identity.
+The urban and architectural design of the building was selected in a public tender process and reflects the new paradigms of the 21st century, namely: environment, ecology and urban-social inclusion. The park is located in an privileged, previously derelict, natural environment by the river, and offers city residents from vulnerable neighborhoods a new public space where they can enjoy the river landscape. The Museum of the Constitution is expected to open in 2017. Different cultural and recreational activities will be organized to attract neighbors in the vicinity and city residents at large to this new place.
+Further, the city will incentivize the creation of service ventures to assist people and students who visit the museum. Target: In 2020, the Library of the National Constitution Park will be recognized by Santafesinians as an icon of local identity and unity.
+Status: Currently underway. Results: Medium term.
+Leader: Secretariat of Culture of MCSF
+Partners: Asociacion Pro Parque Biblioteca de la Constitucion National (Association), Secretariats of Education, Urban Planning, Production and Strategic Development and Communication of MCSF.
+Information management is crucial to a city’s orderly operation and life, and knowledge co-creation is a major driver of innovative solutions to urban problems.
+Santa Fe aspires to become a modern, intelligent city. In the last few years, the municipality has implemented different programs to upgrade and enhance systems, and to improve administrative procedures and community services. It has also worked jointly with other civil society institutions to design quality-of-life and management indicators to assess public policies.
+However, these processes are far from being fully put to effective use. Different city departments and agencies generate, save and share information in a compartmentalized fashion, using different data-recording criteria and fragile institutional repositories, which makes it more difficult for information to be publicly used. Such is also the case with the programs for controlling and monitoring infrastructure systems, either because their components are technologically obsolete, or because they are handled by too many agencies and companies.
+The challenge is to turn this weakness into an opportunity to generate new knowledge-management systems and incorporate new technology, sponsoring research into specific stresses and developing evidence-based projects. Efforts are being made to advance towards an open government that guarantees transparent management and collaborative work with the community.
+The city of Santa Fe also aims to become a pioneer in the field of resilience, and use this approach to urban design and city growth in the region.
+PROJECT/FEATURED
+Some infrastructure systems in the city of Santa Fe are supervised by the City Hall and have electronic measuring or smart metering devices, while others are supervised by private companies or state agencies. The city also has monitoring devices and protocol systems which, despite serving the purposes they have been designed for, work in an isolated fashion. By integrating these systems, different agencies and departments within the City Government sphere will be able to retrieve and co-generate data, which will enhance their performance and its impact.
+Thus, this initiative will create a Monitoring and Control Center (MCC) in Santa Fe, with state-of-the-art technology and highly qualified human resources to manage the city’s entire infrastructure systems. The process of opening and having a fully operative MCC will be carried out in stages. Target: By 2020, Santa Fe will have completed the first stage, which consists of acquiring the premises and integrating the four existing systems: safety, risk management, mobility and
+is: New.
+Medium term.
+Leader: Resilience Office.
+s: Secretariat of Government - Undersecretariat of
+City Safety and Prevention, Secretariats of Control, Urban Planning, Strategic Development and Communication, and Risk Management Office of MCSF.
+INSPIRATION
+C4I4
+Mexico City (Mexico)
+In 2011, Mexico City opened the most modern surveillance center and the first of its kind in Latin America; its name C4I4 is derived from the Spanish for “Command, Control, Communications, Intelligence, Integration, Information, and Investigation.”
+C4I4 is a high-security bunker created to combat crime; to keep the city safe during natural disasters, infectious-contagious diseases and plagues; and to carry out investigative activities. Intelligence activities comprise investigation, analysis and statistics tasks, among others.
+Its eyes are 13,000 cameras located throughout public parks, city metro stations and passenger cars, bus rapid transit platforms and vehicles, trolleybuses and streets. The cameras also have software and sensors that automatically recognize license plates and detect gunshots.
+C4i4 is a 20 thousand-square-meter four-story building, with an emergency light system capable of providing 48 hours of emergency lighting; an independent water-pumping system, and twice the average optical fiber capacity.
+INSPIRATION
+GEOHUB
+Los Angeles (USA)
+GeoHub is a public platform, launched in Los Angeles in 2016, that lets citizens explore, visualize and download location-based data related to different categories such as infrastructure, planning, health and business. Its interactive portal aims to improve communication between city public agencies and expand community engagement and access to information.
+Thus, Los Angeles has become a pioneer in innovation by incorporating new practices of open government in order to improve its institutional performance and make local information available to every citizen. This platform is renowned for its huge amounts of data and its user-friendly nature. To develop this amazing tool, Los Angeles has partnered with ESRI, one of the largest international suppliers of geographic information system software worldwide and also a 100RC Platform Partner.
+PROJECT / SUPPORTING
+39.	INTEGRATED INFORMATION SYSTEM
+Information management is crucial to a city’s orderly operation and life. Santa Fe has large institutional repositories but the information is not updated and each municipality generates its own information, which is eventually shared through informal channels.
+This initiative will incorporate specific apps and technologies to unify the territorial data recording criteria and to create databases, spatial infrastructure and GIS. It will also create a specific department responsible for surveying existing systems, defining uniform recording criteria, training municipal staff to guarantee data is updated, and promoting data analysis and visualization with the goal of developing more solid projects and programs.
+This initiative also provides for the incorporation of systems that facilitate contributions made by institutions and citizens to the data generation process.
+Target: In 5 years, Santa Fe will possess a modern, simple, robust and user-friendly municipal integrated information system.
+is: New.
+Medium term.
+;r: Secretariat of Strategic Development and Communication of MCSF.
+s: Program of Economic and Social Research and Statistics of MCSF, Secretariat of Planning, Undersecretariat of Upgrade and Reform, Under secretariat of Technological Innovation of MCSF, Land and Real Estate Register of the Province of Santa Fe.
+INSTITUTION / SUPPORTING
+40.	MUNICIPAL SAFETY OBSERVATORY
+For 15 years now, the homicide rate in Santa Fe city has been twice the national average; in some city neighborhoods, it is even thrice. Urban violence is deeply rooted in young male populations of certain vulnerable neighborhoods. It is essential to better understand the causes and improve policies at different government levels in order to reduce the rates of violence. These problems should be analyzed from a multidisciplinary perspective to assess the impact of different actions currently underway by local, province and federal governments.
+This initiative will create an Observatory that will capitalize on existing research and will conduct specific studies to survey the situation in different neighborhoods, focusing on those variables with a higher impact on the city and its metropolitan area.
+The Observatory will be responsible for generating systematic gender-based studies and reports on urban violence and crime, and analyzing and assessing the impact of safety policies, crime prevention plans and law-enforcement practices.
+Target: In 2 years, Santa Fe will have created this Observatory,
+is: New.
+:s Short term.
+ir: Undersecretariat of City Safety and Prevention of MCSF.
+•s: Research Team “Crime and Society” - UNL; Program of Economic and Social Research and Statistics of MCSF; School of Humanities and Science - UNL; Public Prosecutor’s Office; Ministry of Safety of the Province of Santa Fe; National Ministry of Safety.
+PLAN / FEATURED
+41.	ASSETS MANAGEMENT PLAN
+Most infrastructure systems in Santa Fe offer low performing services either because they are obsolete or lack adequate maintenance. In recent years, investments in infrastructure projects, such as storm drains, drinking water networks, street maintenance efforts and waste disposal, have been made; and studies and master plans related to communication and mobility networks have been commissioned. Thus, it is opportune to develop an integrated plan to manage all the infrastructure systems as an ecosystem.
+This initiative will jointly develop a dynamic Assets Management Plan with other agencies to manage the city’s assets for a certain time. This document will provide information about the current condition of infrastructure, expected level of performance, management actions and strategic funding for maintenance.
+Target: In 5 years, Santa Fe will have created an Assets Management Plan developed jointly by the Municipality and other agencies and companies responsible for city
+is: New.
+Medium term.
+Leader: Resilience Office.
+'s: Ministry of Infrastructure and Transport of the
+Province of Santa Fe, EPE, ASSA, Litoral Gas, Secretariats of Public Works, Urban Planning and Water of MCSF.
+INSTITUTION / SUPPORTING
+42.	COORDINATING BODY FOR INFRASTRUCTURE PROJECTS
+City infrastructure systems are managed by different agencies and companies, which usually work in an isolated fashion. Some city sectors experience temporary traffic diversion, broken streets, road work and excess noise.
+These result in reduced infrastructure lifespan, low level of performance, higher maintenance costs and disgruntled citizens. Thus, this initiative will create a multi-agency body responsible for coordinating infrastructure maintenance and investment plans in an integrated and resilient fashion, in order to enhance their performance and maximize economic and human resources.
+Target: By 2018, Santa Fe will have created a Coordinating Body, drafted a protocol and selected a pilot city zone to assess its performance.
+is: New.
+:s Short term.
+Leader: Secretariat of Public Works.
+•s: Secretariats of Urban Planning, Control and Water
+Resources of MCSF; EPE, ASSA, Litoral Gas and Ministry of Public Works of the Province of Santa Fe; ENACOM; Construction and Real Estate Developers Chamber.
+PROJECT / SUPPORTING
+43.	REPORT CARD ON
+INFRASTRUCTURE PERFORMANCE
+Performance is not uniform across infrastructure systems in the city. In order to plan and develop projects and find funding sources, it is essential to survey the infrastructure systems’ condition and check that they operate at the required current and future performance levels.
+This initiative will create a “report card” to survey infrastructure in city neighborhoods and districts. This report will be an annual statement about infrastructure performance based on data analysis, expert surveys and residents’ opinions. The following aspects will be taken into account: financing, operation and maintenance, public safety, innovation and resilience qualities such as redundancy and integration.
+Target: In 2020, Santa Fe will have created a Report Card to assess the performance of the infrastructure systems managed by the Municipality.
+is: New.
+Medium term.
+Leader: Resilience Office.
+s: Secretariats Public Works, Urban Planning, and
+Communication of MCSF.
+PROGRAM / SPECIFIC
+MCSF allocates part of its annual budget to operation and maintenance of the urban drainage system. Additionally, pursuant to the Storm Drainage Master Plan developed by the National Water Institute, which is regularly upgraded, the City Hall keeps investing toward its completion. In 2016, thanks to a joint effort by the City Hall and the provincial and national governments, AR$ 1 billion worth of investment was allocated for new works -10% of this investment was provided by the city government.
+Drainage systems are costly but ‘hardly visible’ to residents, because pipes are buried. Thus, this initiative will adopt a new paradigm for the design of the urban drainage system components, not only to enhance their performance but also to help residents embrace the idea of living with water. This initiative will adopt new approaches to solve drainage problems while improving public space, by designing not only drainage pipelines but also other mechanisms or systems to retain and reuse water.
+Targets:
+•	As of 2018, Santa Fe will incorporate green infrastructure in all of its stormwater management projects;
+•	As of 2020, urban public spaces will be designed with integrated drainage systems, in order to increase their visibility and raise awareness of their significance to the city.
+is: New.
+Medium term.
+;r: Secretariat of Water Resources of MCSF. s: School of Architecture, Urbanism and Design,
+School of Engineering and School of Water Science - UNL, Secretariats ofWater Resources, Public Works and Urban Planning of MCSF.
+PROGRAM / FEATURED
+45.	INFRASTRUCTURE RENOVATION IN DOWNTOWN SANTA FE
+In downtown Santa Fe, like in many other older cities, there are government buildings, schools, banks, shops, offices and houses; the downtown is a key area in the city’s social and economic life. Infrastructure systems here, and especially in the area around downtown, are obsolete and have not been regularly upgraded, so their level of performance already is or will be very low in the near future.
+This initiative will develop a program to upgrade infrastructure in order to optimize resources and to prevent long and frequent periods of infrastructure disruption. This means surveying existing plans, updating information and studies, adopting new technologies, using new materials, installing underground wiring, modifying the public space (streets and pavement) pursuant to the Mobility Plan guidelines and making provisions for the construction of tall buildings.
+The regulations in force will be analyzed to help create new regulations and seek funding to advance the program.
+Every state agency and private company providing services in this area must make a contribution, including the Coordinating Body for Infrastructure Projects.
+Target: In 4 years, Santa Fe will have started the
+is: New.
+Medium term.
+?r Secretariat of Urban Planning of MCSF.
+•s: MCSF, Municipal Council, ASSA, Litoral Gas,
+EPE, telecommunications and telephony companies.
+PROGRAM / FEATURED
+46.	INSTITUTIONAL EFFICIENCY PROGRAM
+By introducing institutional efficiency criteria for the allocation of resources, the Municipality will maximize existing resources and improve city services.
+This initiative will develop and implement an institutional efficiency program with the goal of improving information management and assessment of implemented actions outcome, taking into account the budget currently allocated per program. It will also work to improve resources, revenues and expenses management. City Hall staff and officials will undergo training in internal studies, impact assessments, and cost-benefit analysis of different programs currently underway. This program will also introduce energy efficiency criteria for municipal buildings and public spaces. Target: In 4 years, MCSF will have increased its efficiency and will have in place indicators to assess municipal resources management.
+is: New.
+Medium term.
+:r Secretariat of Economy of MCSF. s: Undersecretariats of Reform, Technology
+Innovation and Upgrade of MCSF; School of Public Administration (FCE-MCSF).
+INSTITUTION / SUPPORTING
+47.	ACCELERATED DESIGN LAB
+The new urban challenges of the 21st century test the response capacity of local governments. Traditional government structures are unable to deal with these new challenges, which are very complex and lack a clear cut division between causes and effects. Nowadays, there is no single action that can solve every challenge cities face, but it is possible to coordinate actions and adopt a multidisciplinary approach to tackle more than one challenge at once. Inspired by the innovative nature of the participatory workshops organized through out the resilience strategy development process, the MCSF will replicate these spaces for the accelerated design of projects and initiatives to tackle complex challenges.
+Target: By 2018, Santa Fe will have held 3 meetings to be attended by different secretariats, to discuss and design projects to tackle complex city challenges in an innovative fashion.
+is: New.
+:s Short term.
+Leader Resilience Office.
+s: Secretariat of Education ofMCSF, School of
+Architecture, Design and Urbanism.
+INSTITUTION / SUPPORTING
+48.	TEAM FOR ANALYSIS AND STRATEGIC PROJECTS DEVELOPMENT
+One of the most frequent problems encountered by local governments is the lack of human resources needed to carry out strategic analysis and planning, and to turn ideas into detailed-enough projects eligible to be funded and implemented.
+Thus, this initiative will create a multidisciplinary work team to identify neglected areas of research, conduct studies and develop projects and indicators to enhance government performance. This team will also conduct an economic analysis to design new financing alternatives (bonds, private public ventures) or improve existing ones (loans, taxes, etc.). Target: In 2 years, Santa Fe will have this team in place and will have allocated funds for its operation.
+is: New.
+:s Short term.
+Leader: Resilience Office.
+s: Secretariats of Strategic Development and
+Communication, Planning and Economy.
+PROGRAM / SPECIFIC
+In 2012, the city of Santa Fe launched its Municipal Early Childhood Education System. So far, it has opened 16 municipal kindergartens in the city’s most vulnerable neighborhoods, which currently serve 2,000 children aged 1 to 3. This policy, which regards education as a right and has a gender-based approach, has been awarded recognition by many institutions such as CIPPEC in Argentina; and most recently by the World Organization for Early Childhood Education (OMEP) and the UNESCO’s Education for Sustainable Development Prize and Skills in Action Award. To take advantage of this strength, this initiative will use municipal kindergartens as labs to promote the Resilience Framework from early childhood. It will also introduce this approach in the Girls and Boys Council, created in 2008, where children aged 8 to n can discuss and develop ideas to improve the city.
+Target: In 2 years, the city will have incorporated resilience thematic modules in:
+•	Municipal kindergartens curricula;
+•	Resilience training activities aimed at kindergarten teachers in vulnerable neighborhoods;
+•	Girls and Boys Council meetings.
+is: New.
+:s Short term.
+;r: Secretariat of Education of MCSF.
+•s: World Organization for Early Childhood
+Education; Secretariats of Education, Culture, and Strategic Development and Communication of MCSF.
+PROJECT/SPECIFIC
+50. SCHOOL OF RESILIENCE
+The City Resilience Framework adopted by ioo Resilient Cities is used to identify solutions to new challenges that deal with increasing and unequal urbanization.
+The City of Santa Fe, in its capacity as Chair of the Mercociudades Network for 2017, proposes that the network enter into a strategic agreement with 100RC to advance the School of Resilience initiative, which is a set of modules aimed at providing local governments from both networks with training.
+The goal is to promote mutual learning and exchanges, and help governments develop and implement urban resilience development plans and strategies. Thus, training modules will be specifically designed and aimed at senior officials involved in city decision-making and strategic-planning processes so that they adopt a resilient approach to local management.
+Target: By 2018, Santa Fe will have developed a pilot plan with four training modules.
+is: New.
+:s Short term.
+;r: Resilience Office of Santa Fe.
+'s: Mercociudades, Agency of Cooperation,
+Investment and Foreign Trade of MCSF; 100RC Network cities: Montevideo, Buenos Aires and Porto Alegre.
+^Mercociudades is the main local governments’ network in Mercosur and an outstanding advocate of integration processes. At present, it brings together 303 municipalities from Argentina, Brazil, Uruguay, Paraguay, Bolivia, Chile, Peru, Colombia, Ecuador and Venezuela, cities with over 114 million residents.
+SFC RESILIENT
+NET-
+WORKING
+network
+Cities
+Local government networks play a key role in cities' learning processes by incentivizing them to adopt new and innovative
+development paradigms. Thus, the 100RC network -a program that connects CROs and resilience advocates- has given us the chance not only to learn about other experiences but also contribute to a more resilient world. This invaluable tool has provided Santa Fe with knowledge about other cities facing the same challenges, which has been a source of inspiration to launch different initiatives and to take a more active role in the dissemination of this innovative approach within the region.
+21St MerCoCiudadeS SuMMit panel on reSilienCe
+At the 21st Mercociudades Summit, the city of Santa Fe organized a panel called “Resilient City Approach. The 100RC Experience” to share its experience with other Latin American cities and international organizations that attended this event. The panel was made up of the Deputy CRO from Porto Alegre, Patrick Fontes; the 100RC Regional Director for Latin America and the Caribbean, Eugene Zapata; and the CRO from Santa Fe,
+Andrea Valsagna.
+On this occasion, Santa Fe and Porto Alegre had the chance to share their progress throughout the strategy development process and, most importantly, they invited other cities from the Mercociudades network to join the "resilient cities movement" and think of urban development in resilience terms.
+panel on Culture oF peaCe and SoCial inCluSion
+Other important issues were tackled during the 21st Mercociudades Summit, such as social inclusion challenges and their link to safer communities with more opportunities for vulnerable groups. The cities of Medellin and Porto Alegre were invited to share their Resilience Strategy initiatives on these subjects. The panel was made up of representatives from both cities and from the consulting firm Arup, our strategy partner.
+Network
+Partners
+Santa Fe’s Resilience Office and other municipal agencies and experts have jointly worked with our Strategy Partner Arup and some other 100RC Platform Partners to identify some specific and critical actions to be implemented across the initiatives described in this document.
+ARUP
+ABOUT ARUP
+Arup is an independent firm of designers, planners, engineers, consultants and technical specialists offering a broad range of professional services worldwide. Besides becoming Santa Fe’s Strategy Partner, it has also offered the city its services as if it were a platform partner.
+WORK DESCRIPTION
+Santa Fe asked Arup to carry out an Analysis of Integrated Management of Urban Solid Waste in Santa Fe (IMUSW); a Survey of Sources of Finance for Infrastructure, Housing and Tourism Projects; and an Assessment of the Vulnerable Families’ Resettlement Process in the city of Santa Fe. For the last study, Arup worked jointly with the International Institute for Environment and Development, IIED - Latin America.
+IMUSW objectives:
+•	Identify world trends in integrated management of urban solid waste (IMUSW).
+•	Identify successful, unsuccessful and innovative IMUSW experiences, from which Santa Fe can learn lessons.
+•	Identify successful and/or innovative mechanisms to reduce waste, especially household waste.
+The objective of the Survey of Sources of Finance for Infrastructure, Housing and Tourism Projects,
+was to find multilateral and national funding to:
+•	Resettle families who live in low-lying areas at greater risk of flooding.
+•	Build social housing in safe, non-flood prone areas.
+•	Carry out maintenance of the services infrastructure network to ensure/improve its performance.
+•	Expand the aforementioned network to enlarge the number of city districts with access to basic services.
+The objective of the Assessment of the Vulnerable Families’ Resettlement Process in the city of Santa Fe was to collect affected families’ opinions about the resettlement process through surveys and questionnaires, in order to improve future interventions of this kind. It aims to identify if there were changes in these communities’ living conditions, and to pinpoint positive aspects worth reinforcing and negative aspects that must be revised.
+KEY RECOMMENDATIONS
+Recommendations on IMUSW:
+•	Develop clear and relevant rules.
+•	Identify current failures and set performance goals.
+•	Identify institutions and human resources that can work jointly with Santa Fe in awareness-raising activities.
+•	Select pilot zones to assess methodologies and outcomes.
+As for Sources of Finance, a list was delivered with the names of different institutions such as: the World Bank, International Finance Corporation, Inter-American Development Bank, Latin American Development Bank and several different national and provincial Ministries.
+As for resettlement processes:
+•	Develop communication strategies between the different actors involved in the resettlement process, so that both resettled families and residents in general will be acquainted with every aspect of the process, including options, schedules, roles, responsibilities, and the origin of funds.
+•	Discuss and increase the number of resettlement options, including families’ voluntary withdrawal from their community and random resettlement in different city areas. This means analyzing different options such as buying used homes, swapping or bartering homes, etc.
+•	Incorporate collaborative actions in the resettlement process as soon as possible, and develop strategies to sustain them over time.
+•	Discuss and reach consensus on different sources of finance to improve and enlarge homes; consider micro-credit systems to buy materials, since they contribute to strengthening the social fabric and increasing community responsibility.
+•	Discuss and reach consensus on reusing recovered lands for community purposes, and on using land with environmental, recreational and productive purposes to the benefit of Santa Fe’s residents and especially resettled families.
+•	Create labor opportunities and alternative means of sustenance for resettled populations that bring environmental benefits to every citizen, for example, reservoir and green space protectors.
+RELATED TO INITIATIVES
+SIEMENS
+ABOUT SIEMENS
+Siemens is a global technology company that offers different kinds of products and services. Through the 100RC network, Siemens offers in-depth knowledge in the energy, transport and building sectors to cities, for which intelligent devices and technology are key elements.
+WORK DESCRIPTION AND OBJECTIVES
+Santa Fe asked Siemens to conduct an Assessment of Infrastructure Opportunities (AIO). This service is ideal for expanding cities with a growing population -two trends that exacerbate energy, transport and building problems- that want to improve their resilience and competitiveness through the incorporation of new infrastructure and technology.
+This assessment basically tackled urban mobility and some of the questions were:
+•	What changes should be made to the current transport and road networks in the city and the metropolitan area to make them more efficient, redundant, safe and inclusive, so that Santa Fe can become a role model in technological innovation, logistics and tourism?
+•	What supporting projects and technological innovation should be advanced to improve the performance and appeal of the so-called large infrastructure works (bridges, port, airport, industrial and logistics park)?
+•	What technology should be adopted to improve people’s mobility in the city and the metropolitan area?
+•	What steps should be taken to create a real-time information management/monitoring center for city infrastructure systems?
+KEY RECOMMENDATIONS
+•	Develop a mobility plan for the metropolitan area;
+•	Develop new transport options in the city (e.g. ferries, car-sharing);
+•	Analyze transport routes between logistics centers;
+•	Develop an integrated mobility app for smartphones.
+RELATED TO INITIATIVES
+ABOUT THE MARIO SANTO
+DOMINGO FOUNDATION
+This is a Colombian NGO with a 55-year history of philanthropic work. It is internationally renowned for rebuilding disaster-stricken houses, and for launching an innovative model for building social housing called Comprehensive Development of Sustainable Communities (CDSC) in 2009.
+WORK DESCRIPTION AND OBJECTIVES
+Technical expert Juan Carlos Franco - advisor to Alejandro Santo Domingo Foundation, LRA Colombia’s main partner and former Director of this prestigious foundation- visited the city of Santa Fe, and for two days offered municipal officials training on habitat and housing policies. He also organized a reflection exercise to think about how to foster city community development and tackle Santa Fe’s challenges more effectively. Finally, he described concrete examples of social projects implemented by the Foundation in two Colombian cities to substantiate his recommendations.
+KEY RECOMMENDATIONS
+•	Identify with further accuracy the quantitative and qualitative housing deficit in the city, and carry out an exploratory survey of the land to find the best zones available to develop big housing projects.
+•	Increase efficiency in the production of social
+housing to reduce construction costs, with the goal of finding the private or public funding necessary to build social infrastructure and/or implement programs to support community development.
+•	Carry out a detailed and comparative assessment of social housing production costs for the city and identify production techniques and materials.
+•	Acknowledge the importance of home ownership and family patrimony to spur community development.
+RELATED TO INITIATIVES
+ABOUT EY
+EY is a multinational company that provides consulting and guidance services in 4 main areas -Auditing, Consulting on Business, Tax Advice and Consulting on Finance and Acquisitions-, and its Services Center provides support in other areas such as Human Resources and IT.
+At present EY employs over 230,000 people and has 728 offices in 150 countries.
+WORK DESCRIPTION AND OBJECTIVES
+The Resilience Office asked EY to first identify local economy sectors with high development potential, those that can create job opportunities for young people from vulnerable sectors; and then to suggest initiatives to boost these sectors and create jobs to incorporate vulnerable populations in the formal employment market.
+Taking into account the outcomes of the workshop called Scenarios and Opportunities, where participants prioritized some sectors and analyzed the inclusion challenges faced by young people, the city of Santa Fe selected the Tourism and Health sectors.
+KEY RECOMMENDATIONS
+EY conducted a high level assessment, the outcomes of which show the current and expected impact these two sectors have directly on the city life. It also offered some guidelines for the future
+implementation of strategic initiatives, aimed at boosting those sectors.
+The previously mentioned initiatives specifically aim to turn Santa Fe and its metropolitan area into a regional tourist destination option, full of educational, athletic and nature-related activities to offer. Some other initiatives aim to boost healthcare-related activities, so that the city of Santa Fe may become a healthcare provider for the northern region of the province.
+RELATED TO INITIATIVES
